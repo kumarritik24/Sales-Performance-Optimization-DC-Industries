@@ -60,3 +60,11 @@ This solution can be reused across similar industries to automate multi-source s
 🔗 [LinkedIn](https://www.linkedin.com/in/ritik-kumar-b9999b221)
 
 ---
+
+## 🔧 Workflow Screenshot
+
+Below is the full Alteryx workflow used to automate and analyze DC Industries' sales data.
+
+![Workflow Screenshot](images/workflow_screenshot.png)
+
+---
