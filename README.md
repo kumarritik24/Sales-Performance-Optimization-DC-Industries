@@ -51,7 +51,7 @@ To streamline the sales reporting workflow and build a reliable, automated pipel
 
 Below is the full Alteryx workflow used to automate and analyze DC Industries' sales data.
 
-![Workflow Screenshot](images/workflow_screenshot.png)
+![Workflow Screenshot](https://github.com/kumarritik24/Sales-Performance-Optimization-DC-Industries/blob/main/images/workflow_screenshot.png.png)
 
 ---
 
