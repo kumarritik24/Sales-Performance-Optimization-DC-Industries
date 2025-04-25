@@ -1,0 +1,480 @@
+Order ID,Order Date,CustomerName,State,Region,DOW,Sale Price,Quantity,Cost per Item,PaymentMode,Category,Sub-Category,Profit,Profitability
+B-25907,2023-12-11,Hansen,Florida,SE,Monday,30,5,4,Credit Card,Clothing,Hat,130.000000,Low
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,1337,7,170,COD,Electronics,Printers,8169.000000,High
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,184,6,17,EFT,Clothing,T - shirt,1002.000000,Avg
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,216,4,42,Credit Card,Clothing,Scarf,696.000000,Low
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,382,2,132,COD,Clothing,Dress,500.000000,Low
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,490,2,201,EFT,Electronics,Accessories,578.000000,Low
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,600,5,140,Debit Card,Electronics,Electronic Games,2300.000000,High
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,669,5,119,Credit Card,Furniture,Bookcases,2750.000000,High
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,676,5,96,Debit Card,Furniture,Bookcases,2900.000000,High
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,80,3,19,EFT,Clothing,Scarf,183.000000,Low
+B-26051,2023-03-07,Brooks,Georgia,SE,Tuesday,85,10,6,Debit Card,Clothing,Hat,790.000000,Low
+B-25765,2023-08-29,Willis,Florida,SE,Tuesday,139,3,42,Credit Card,Clothing,Scarf,291.000000,Low
+B-25981,2023-01-28,Murray,North Carolina,SE,Saturday,245,2,77,EFT,Furniture,Bookcases,336.000000,Low
+B-25981,2023-01-28,Murray,North Carolina,SE,Saturday,42,3,10,Credit Card,Clothing,Leggings,96.000000,Low
+B-25981,2023-01-28,Murray,North Carolina,SE,Saturday,48,3,15,Credit Card,Clothing,Scarf,99.000000,Low
+B-25981,2023-01-28,Murray,North Carolina,SE,Saturday,54,3,14,Debit Card,Clothing,Dress,120.000000,Low
+B-25981,2023-01-28,Murray,North Carolina,SE,Saturday,62,2,27,EFT,Clothing,T - shirt,70.000000,Low
+B-25981,2023-01-28,Murray,North Carolina,SE,Saturday,867,5,123,Credit Card,Electronics,Phones,3720.000000,High
+B-26002,2023-02-08,Clark,North Carolina,SE,Wednesday,113,2,43,EFT,Clothing,Dress,140.000000,Low
+B-26002,2023-02-08,Clark,North Carolina,SE,Wednesday,141,7,19,Credit Card,Clothing,Dress,854.000000,Low
+B-26002,2023-02-08,Clark,North Carolina,SE,Wednesday,276,5,45,EFT,Clothing,Dress,1155.000000,Avg
+B-26002,2023-02-08,Clark,North Carolina,SE,Wednesday,71,3,17,Credit Card,Clothing,T - shirt,162.000000,Low
+B-26002,2023-02-08,Clark,North Carolina,SE,Wednesday,80,3,19,Debit Card,Clothing,Scarf,183.000000,Low
+B-25827,2023-10-23,Davis,Florida,SE,Monday,156,3,45,Credit Card,Furniture,Chairs,333.000000,Low
+B-25859,2023-11-14,Holmes,Florida,SE,Tuesday,724,2,236,EFT,Furniture,Bookcases,976.000000,Low
+B-25905,2023-12-11,Wagner,North Carolina,SE,Monday,152,6,17,EFT,Clothing,Scarf,810.000000,Low
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,106,3,31,COD,Clothing,Pants,225.000000,Low
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,137,5,26,Credit Card,Clothing,Shirt,555.000000,Low
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,185,4,34,COD,Clothing,Scarf,604.000000,Low
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,269,1,178,Credit Card,Electronics,Electronic Games,91.000000,Low
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,511,3,106,EFT,Furniture,Chairs,1215.000000,Avg
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,536,1,445,Credit Card,Clothing,Pants,91.000000,Low
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,757,2,193,COD,Electronics,Printers,1128.000000,Avg
+B-25803,2023-10-05,Rios,Florida,SE,Thursday,765,6,126,EFT,Clothing,Dress,3834.000000,High
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,17,2,10,EFT,Clothing,Scarf,14.000000,Low
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,186,9,-6,COD,Clothing,Shirt,1728.000000,Avg
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,22,4,9,Credit Card,Clothing,Shirt,52.000000,Low
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,231,9,47,Credit Card,Clothing,Hat,1656.000000,Avg
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,32,5,7,EFT,Clothing,Hat,125.000000,Low
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,42,2,33,EFT,Furniture,Furnishings,18.000000,Low
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,47,4,19,Credit Card,Clothing,Dress,112.000000,Low
+B-25703,2023-06-28,Flores,Florida,SE,Wednesday,97,4,36,Credit Card,Clothing,Dress,244.000000,Low
+B-26076,2023-03-21,Walker,Florida,SE,Tuesday,133,5,17,EFT,Clothing,Shirt,580.000000,Low
+B-26076,2023-03-21,Walker,Florida,SE,Tuesday,219,2,108,Credit Card,Clothing,Dress,222.000000,Low
+B-26076,2023-03-21,Walker,Florida,SE,Tuesday,450,4,160,Credit Card,Furniture,Bookcases,1160.000000,Avg
+B-26076,2023-03-21,Walker,Florida,SE,Tuesday,60,2,24,Credit Card,Clothing,T - shirt,72.000000,Low
+B-26076,2023-03-21,Walker,Florida,SE,Tuesday,91,2,35,EFT,Clothing,Scarf,112.000000,Low
+B-25657,2023-05-13,Patterson,Florida,SE,Saturday,1021,4,267,EFT,Electronics,Electronic Games,3016.000000,High
+B-25657,2023-05-13,Patterson,Florida,SE,Saturday,288,4,117,Credit Card,Furniture,Chairs,684.000000,Low
+B-25657,2023-05-13,Patterson,Florida,SE,Saturday,32,5,11,EFT,Clothing,Dress,105.000000,Low
+B-25657,2023-05-13,Patterson,Florida,SE,Saturday,332,6,63,EFT,Electronics,Phones,1614.000000,Avg
+B-25605,2023-04-05,Young,Georgia,SE,Wednesday,75,7,11,EFT,Clothing,Dress,448.000000,Low
+B-25692,2023-06-17,Hughes,Florida,SE,Saturday,141,7,16,EFT,Furniture,Furnishings,875.000000,Low
+B-25637,2023-04-26,Edwards,Florida,SE,Wednesday,117,3,34,EFT,Clothing,Shirt,249.000000,Low
+B-26037,2023-02-23,Robinson,Florida,SE,Thursday,171,7,15,EFT,Clothing,Scarf,1092.000000,Avg
+B-25750,2023-08-14,Welch,Florida,SE,Monday,19,1,20,Debit Card,Clothing,Shirt,-1.000000,Loss
+B-25750,2023-08-14,Welch,Florida,SE,Monday,199,2,109,Credit Card,Clothing,Dress,180.000000,Low
+B-25750,2023-08-14,Welch,Florida,SE,Monday,208,2,117,Credit Card,Clothing,Dress,182.000000,Low
+B-25750,2023-08-14,Welch,Florida,SE,Monday,212,2,118,Credit Card,Furniture,Chairs,188.000000,Low
+B-25750,2023-08-14,Welch,Florida,SE,Monday,22,3,11,Credit Card,Clothing,Scarf,33.000000,Low
+B-25750,2023-08-14,Welch,Florida,SE,Monday,42,12,5,EFT,Clothing,Skirt,444.000000,Low
+B-25750,2023-08-14,Welch,Florida,SE,Monday,539,7,98,Debit Card,Furniture,Furnishings,3087.000000,High
+B-25750,2023-08-14,Welch,Florida,SE,Monday,73,1,104,Credit Card,Furniture,Bookcases,-31.000000,Loss
+B-25750,2023-08-14,Welch,Florida,SE,Monday,78,2,42,EFT,Furniture,Furnishings,72.000000,Low
+B-25958,2023-01-18,Alvarez,Georgia,SE,Wednesday,105,2,40,EFT,Clothing,Hat,130.000000,Low
+B-25958,2023-01-18,Alvarez,Georgia,SE,Wednesday,360,3,109,EFT,Clothing,Dress,753.000000,Low
+B-25649,2023-05-05,Cruz,Tennessee,SE,Friday,27,2,26,Credit Card,Clothing,Scarf,2.000000,Low
+B-25994,2023-02-03,Carr,North Carolina,SE,Friday,196,5,41,Credit Card,Electronics,Phones,775.000000,Low
+B-25873,2023-11-23,Ferguson,Florida,SE,Thursday,1275,2,459,EFT,Electronics,Phones,1632.000000,Avg
+B-25873,2023-11-23,Ferguson,Florida,SE,Thursday,367,3,98,EFT,Electronics,Electronic Games,807.000000,Low
+B-25873,2023-11-23,Ferguson,Florida,SE,Thursday,42,2,15,Credit Card,Clothing,Shirt,54.000000,Low
+B-25873,2023-11-23,Ferguson,Florida,SE,Thursday,66,3,18,Credit Card,Clothing,Scarf,144.000000,Low
+B-25873,2023-11-23,Ferguson,Florida,SE,Thursday,7,1,6,Credit Card,Clothing,Hat,1.000000,Low
+B-26013,2023-02-13,Walker,Florida,SE,Monday,29,3,13,Credit Card,Clothing,Skirt,48.000000,Low
+B-26005,2023-02-08,Williamson,Georgia,SE,Wednesday,87,3,26,Credit Card,Clothing,Scarf,183.000000,Low
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,13,1,9,EFT,Clothing,Leggings,4.000000,Low
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,133,5,26,EFT,Clothing,Scarf,535.000000,Low
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,136,5,34,Credit Card,Clothing,Dress,510.000000,Low
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,158,10,19,EFT,Clothing,Hat,1390.000000,Avg
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,1622,5,305,COD,Electronics,Printers,6585.000000,High
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,190,9,19,COD,Furniture,Furnishings,1539.000000,Avg
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,261,6,41,COD,Clothing,Shirt,1320.000000,Avg
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,54,2,14,Credit Card,Clothing,Scarf,80.000000,Low
+B-25950,2023-01-13,Garcia,Florida,SE,Friday,644,2,239,Credit Card,Electronics,Printers,810.000000,Low
+B-25839,2023-10-30,Sims,Georgia,SE,Monday,1250,7,109,EFT,Clothing,Dress,7987.000000,High
+B-25727,2023-07-22,Parks,Florida,SE,Saturday,327,4,53,Credit Card,Clothing,Pants,1096.000000,Avg
+B-25727,2023-07-22,Parks,Florida,SE,Saturday,57,6,18,Debit Card,Clothing,Leggings,234.000000,Low
+B-25914,2023-12-18,Rivera,North Carolina,SE,Monday,125,3,34,EFT,Clothing,Scarf,273.000000,Low
+B-25914,2023-12-18,Rivera,North Carolina,SE,Monday,460,3,201,Debit Card,Furniture,Chairs,777.000000,Low
+B-25713,2023-07-08,Schultz,Georgia,SE,Saturday,158,4,55,EFT,Furniture,Chairs,412.000000,Low
+B-26073,2023-03-21,James,Florida,SE,Tuesday,122,4,28,Credit Card,Clothing,Hat,376.000000,Low
+B-26073,2023-03-21,James,Florida,SE,Tuesday,1514,4,193,EFT,Electronics,Printers,5284.000000,High
+B-26073,2023-03-21,James,Florida,SE,Tuesday,29,3,7,EFT,Clothing,Dress,66.000000,Low
+B-26073,2023-03-21,James,Florida,SE,Tuesday,290,9,20,EFT,Clothing,Scarf,2430.000000,High
+B-26073,2023-03-21,James,Florida,SE,Tuesday,37,3,7,Debit Card,Clothing,Hat,90.000000,Low
+B-25952,2023-01-13,Jones,Florida,SE,Friday,14,4,4,EFT,Clothing,Hat,40.000000,Low
+B-25952,2023-01-13,Jones,Florida,SE,Friday,147,3,33,Credit Card,Clothing,Dress,342.000000,Low
+B-25952,2023-01-13,Jones,Florida,SE,Friday,173,3,35,Credit Card,Furniture,Chairs,414.000000,Low
+B-25952,2023-01-13,Jones,Florida,SE,Friday,352,5,67,Debit Card,Clothing,Pants,1425.000000,Avg
+B-25952,2023-01-13,Jones,Florida,SE,Friday,44,3,10,Credit Card,Clothing,Hat,102.000000,Low
+B-25952,2023-01-13,Jones,Florida,SE,Friday,87,9,13,Credit Card,Clothing,Skirt,666.000000,Low
+B-25952,2023-01-13,Jones,Florida,SE,Friday,935,4,205,EFT,Electronics,Electronic Games,2920.000000,High
+B-25777,2023-09-10,Phillips,Florida,SE,Sunday,1076,4,279,COD,Electronics,Printers,3188.000000,High
+B-25777,2023-09-10,Phillips,Florida,SE,Sunday,117,6,17,Credit Card,Clothing,Shirt,600.000000,Low
+B-25777,2023-09-10,Phillips,Florida,SE,Sunday,59,7,15,EFT,Clothing,T - shirt,308.000000,Low
+B-25777,2023-09-10,Phillips,Florida,SE,Sunday,61,4,22,EFT,Electronics,Accessories,156.000000,Low
+B-25777,2023-09-10,Phillips,Florida,SE,Sunday,69,4,34,EFT,Clothing,Shirt,140.000000,Low
+B-26041,2023-02-27,Myers,Tennessee,SE,Monday,176,5,41,Credit Card,Furniture,Furnishings,675.000000,Low
+B-25767,2023-08-31,Vasquez,Georgia,SE,Thursday,29,3,11,Credit Card,Clothing,Dress,54.000000,Low
+B-25767,2023-08-31,Vasquez,Georgia,SE,Thursday,299,3,109,EFT,Electronics,Electronic Games,570.000000,Low
+B-25767,2023-08-31,Vasquez,Georgia,SE,Thursday,48,2,35,EFT,Clothing,Dress,26.000000,Low
+B-25767,2023-08-31,Vasquez,Georgia,SE,Thursday,74,2,67,Debit Card,Electronics,Accessories,14.000000,Low
+B-25767,2023-08-31,Vasquez,Georgia,SE,Thursday,9,2,9,Credit Card,Clothing,Shirt,0.000000,Loss
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,189,1,185,EFT,Clothing,Dress,4.000000,Low
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,217,2,73,Credit Card,Furniture,Furnishings,288.000000,Low
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,286,6,24,Debit Card,Clothing,Shirt,1572.000000,Avg
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,31,2,15,Credit Card,Clothing,Hat,32.000000,Low
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,333,2,142,Credit Card,Electronics,Phones,382.000000,Low
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,47,2,23,Credit Card,Clothing,Scarf,48.000000,Low
+B-25996,2023-02-04,Burton,North Carolina,SE,Saturday,62,6,9,Credit Card,Clothing,Skirt,318.000000,Low
+B-25913,2023-12-17,Medina,North Carolina,SE,Sunday,103,7,12,EFT,Clothing,Scarf,637.000000,Low
+B-25945,2023-01-11,Matthews,Florida,SE,Wednesday,245,2,118,Credit Card,Furniture,Bookcases,254.000000,Low
+B-25945,2023-01-11,Matthews,Florida,SE,Wednesday,60,3,19,EFT,Clothing,Dress,123.000000,Low
+B-25945,2023-01-11,Matthews,Florida,SE,Wednesday,63,2,25,Credit Card,Clothing,Shirt,76.000000,Low
+B-25945,2023-01-11,Matthews,Florida,SE,Wednesday,765,3,267,Credit Card,Electronics,Electronic Games,1494.000000,Avg
+B-25708,2023-07-01,Carroll,Florida,SE,Saturday,191,8,22,Credit Card,Furniture,Furnishings,1352.000000,Avg
+B-25708,2023-07-01,Carroll,Florida,SE,Saturday,32,2,20,Credit Card,Clothing,Scarf,24.000000,Low
+B-25708,2023-07-01,Carroll,Florida,SE,Saturday,709,5,162,Credit Card,Electronics,Phones,2735.000000,High
+B-25708,2023-07-01,Carroll,Florida,SE,Saturday,81,7,19,EFT,Clothing,Scarf,434.000000,Low
+B-26031,2023-02-22,Gonzalez,Florida,SE,Wednesday,67,4,15,Debit Card,Clothing,Leggings,208.000000,Low
+B-25985,2023-01-31,Ryan,Florida,SE,Tuesday,108,4,21,EFT,Clothing,Shirt,348.000000,Low
+B-25985,2023-01-31,Ryan,Florida,SE,Tuesday,197,4,44,COD,Clothing,Shirt,612.000000,Low
+B-25985,2023-01-31,Ryan,Florida,SE,Tuesday,32,5,5,EFT,Clothing,Hat,135.000000,Low
+B-25985,2023-01-31,Ryan,Florida,SE,Tuesday,44,4,8,Credit Card,Clothing,Scarf,144.000000,Low
+B-25819,2023-10-15,Parker,Florida,SE,Sunday,417,3,123,Credit Card,Electronics,Electronic Games,882.000000,Low
+B-25603,2023-04-03,Walker,Florida,SE,Monday,107,6,12,Credit Card,Clothing,Scarf,570.000000,Low
+B-25603,2023-04-03,Walker,Florida,SE,Monday,116,4,25,Credit Card,Clothing,Scarf,364.000000,Low
+B-25603,2023-04-03,Walker,Florida,SE,Monday,12,2,6,Credit Card,Clothing,Hat,12.000000,Low
+B-25603,2023-04-03,Walker,Florida,SE,Monday,1355,5,283,Credit Card,Clothing,Pants,5360.000000,High
+B-25603,2023-04-03,Walker,Florida,SE,Monday,180,3,58,Debit Card,Clothing,Pants,366.000000,Low
+B-25603,2023-04-03,Walker,Florida,SE,Monday,193,3,120,EFT,Clothing,Dress,219.000000,Low
+B-25603,2023-04-03,Walker,Florida,SE,Monday,24,1,54,Credit Card,Furniture,Chairs,-30.000000,Loss
+B-25603,2023-04-03,Walker,Florida,SE,Monday,38,1,20,Credit Card,Clothing,Shirt,18.000000,Low
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,173,1,87,Debit Card,Electronics,Printers,86.000000,Low
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,201,4,42,EFT,Furniture,Furnishings,636.000000,Low
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,221,7,28,Credit Card,Furniture,Furnishings,1351.000000,Avg
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,414,3,72,Credit Card,Electronics,Phones,1026.000000,Avg
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,4363,5,812,EFT,Furniture,Tables,17755.000000,High
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,44,2,18,Credit Card,Clothing,Scarf,52.000000,Low
+B-25993,2023-02-03,Bailey,North Carolina,SE,Friday,610,3,134,Credit Card,Electronics,Printers,1428.000000,Avg
+B-25783,2023-09-15,Jenkins,Florida,SE,Friday,21,3,13,Credit Card,Clothing,Shirt,24.000000,Low
+B-25783,2023-09-15,Jenkins,Florida,SE,Friday,25,1,36,EFT,Clothing,Scarf,-11.000000,Loss
+B-25783,2023-09-15,Jenkins,Florida,SE,Friday,26,2,12,Credit Card,Clothing,Hat,28.000000,Low
+B-25783,2023-09-15,Jenkins,Florida,SE,Friday,30,2,18,EFT,Clothing,Hat,24.000000,Low
+B-25783,2023-09-15,Jenkins,Florida,SE,Friday,33,6,7,EFT,Clothing,Leggings,156.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,106,7,13,COD,Clothing,Hat,651.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,14,1,9,Credit Card,Clothing,Hat,5.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,165,3,45,Credit Card,Clothing,Scarf,360.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,17,3,3,EFT,Clothing,Hat,42.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,17,4,8,Debit Card,Clothing,Skirt,36.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,211,8,24,Credit Card,Clothing,Scarf,1496.000000,Avg
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,3151,7,455,EFT,Clothing,Pants,18872.000000,High
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,34,5,9,Credit Card,Clothing,T - shirt,125.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,46,5,6,Debit Card,Clothing,Skirt,200.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,53,2,19,Credit Card,Clothing,Scarf,68.000000,Low
+B-25757,2023-08-21,Reynolds,Florida,SE,Monday,98,2,45,Credit Card,Furniture,Furnishings,106.000000,Low
+B-25971,2023-01-22,Howard,Florida,SE,Sunday,244,2,81,Credit Card,Furniture,Bookcases,326.000000,Low
+B-25613,2023-04-12,Ward,Tennessee,SE,Wednesday,1603,9,178,COD,Clothing,Dress,12825.000000,High
+B-25906,2023-12-11,Alexander,North Carolina,SE,Monday,78,3,17,Credit Card,Clothing,Scarf,183.000000,Low
+B-26059,2023-03-12,Cruz,Tennessee,SE,Sunday,20,1,14,Credit Card,Clothing,T - shirt,6.000000,Low
+B-25814,2023-10-10,Coleman,Florida,SE,Tuesday,118,7,12,EFT,Clothing,T - shirt,742.000000,Low
+B-25814,2023-10-10,Coleman,Florida,SE,Tuesday,462,4,73,Credit Card,Clothing,Dress,1556.000000,Avg
+B-25659,2023-05-15,Ross,Georgia,SE,Monday,148,7,11,Debit Card,Clothing,T - shirt,959.000000,Low
+B-25984,2023-01-30,Rivera,North Carolina,SE,Monday,304,6,35,EFT,Clothing,Scarf,1614.000000,Avg
+B-25989,2023-02-01,Moore,North Carolina,SE,Wednesday,10,1,5,Credit Card,Clothing,Scarf,5.000000,Low
+B-25989,2023-02-01,Moore,North Carolina,SE,Wednesday,330,1,249,COD,Furniture,Bookcases,81.000000,Low
+B-25989,2023-02-01,Moore,North Carolina,SE,Wednesday,338,7,42,EFT,Clothing,Hat,2072.000000,High
+B-25989,2023-02-01,Moore,North Carolina,SE,Wednesday,42,1,27,EFT,Electronics,Accessories,15.000000,Low
+B-25989,2023-02-01,Moore,North Carolina,SE,Wednesday,44,3,10,COD,Clothing,Hat,102.000000,Low
+B-26023,2023-02-19,Cox,Tennessee,SE,Sunday,1117,10,67,EFT,Furniture,Bookcases,10500.000000,High
+B-26023,2023-02-19,Cox,Tennessee,SE,Sunday,29,3,10,Credit Card,Furniture,Furnishings,57.000000,Low
+B-26023,2023-02-19,Cox,Tennessee,SE,Sunday,59,2,19,Debit Card,Clothing,Scarf,80.000000,Low
+B-26023,2023-02-19,Cox,Tennessee,SE,Sunday,66,3,15,EFT,Clothing,Scarf,153.000000,Low
+B-26033,2023-02-22,Jackson,Georgia,SE,Wednesday,111,5,15,Credit Card,Clothing,Shirt,480.000000,Low
+B-26033,2023-02-22,Jackson,Georgia,SE,Wednesday,143,1,111,Credit Card,Furniture,Bookcases,32.000000,Low
+B-26033,2023-02-22,Jackson,Georgia,SE,Wednesday,774,3,201,Credit Card,Electronics,Accessories,1719.000000,Avg
+B-25821,2023-10-16,Taylor,Georgia,SE,Monday,125,3,42,Credit Card,Electronics,Accessories,249.000000,Low
+B-25821,2023-10-16,Taylor,Georgia,SE,Monday,17,1,17,Credit Card,Clothing,Hat,0.000000,Loss
+B-25821,2023-10-16,Taylor,Georgia,SE,Monday,60,4,10,Credit Card,Clothing,Scarf,200.000000,Low
+B-25621,2023-04-20,Gonzalez,Florida,SE,Thursday,228,3,55,COD,Electronics,Electronic Games,519.000000,Low
+B-25621,2023-04-20,Gonzalez,Florida,SE,Thursday,233,5,49,Credit Card,Electronics,Electronic Games,920.000000,Low
+B-25621,2023-04-20,Gonzalez,Florida,SE,Thursday,333,3,116,Credit Card,Electronics,Phones,651.000000,Low
+B-25910,2023-12-14,Hawkins,North Carolina,SE,Thursday,125,5,22,EFT,Clothing,Shirt,515.000000,Low
+B-25910,2023-12-14,Hawkins,North Carolina,SE,Thursday,1622,5,449,COD,Furniture,Tables,5865.000000,High
+B-25910,2023-12-14,Hawkins,North Carolina,SE,Thursday,259,5,42,COD,Clothing,Hat,1085.000000,Avg
+B-25910,2023-12-14,Hawkins,North Carolina,SE,Thursday,33,2,16,Credit Card,Clothing,Shirt,34.000000,Low
+B-25910,2023-12-14,Hawkins,North Carolina,SE,Thursday,685,7,97,EFT,Clothing,Pants,4116.000000,High
+B-25910,2023-12-14,Hawkins,North Carolina,SE,Thursday,850,5,228,Credit Card,Electronics,Electronic Games,3110.000000,High
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,1027,8,73,Credit Card,Clothing,Dress,7632.000000,High
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,1319,5,150,Credit Card,Electronics,Printers,5845.000000,High
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,197,1,124,Credit Card,Furniture,Bookcases,73.000000,Low
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,442,2,206,EFT,Electronics,Electronic Games,472.000000,Low
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,550,5,158,EFT,Furniture,Furnishings,1960.000000,Avg
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,61,2,16,EFT,Clothing,Hat,90.000000,Low
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,829,4,203,COD,Electronics,Printers,2504.000000,High
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,90,3,24,Credit Card,Clothing,Hat,198.000000,Low
+B-25855,2023-11-08,Carter,Florida,SE,Wednesday,98,2,43,COD,Clothing,Hat,110.000000,Low
+B-25705,2023-06-30,Hill,Florida,SE,Friday,46,2,23,Credit Card,Electronics,Electronic Games,46.000000,Low
+B-25957,2023-01-18,Allen,Florida,SE,Wednesday,1157,9,130,COD,Furniture,Bookcases,9243.000000,High
+B-25957,2023-01-18,Allen,Florida,SE,Wednesday,147,3,25,Credit Card,Clothing,Scarf,366.000000,Low
+B-25957,2023-01-18,Allen,Florida,SE,Wednesday,209,1,207,Credit Card,Clothing,Dress,2.000000,Low
+B-25680,2023-06-04,Martinez,Florida,SE,Sunday,73,3,33,Credit Card,Clothing,Dress,120.000000,Low
+B-25681,2023-06-04,Hunter,Florida,SE,Sunday,1096,7,63,Credit Card,Electronics,Electronic Games,7231.000000,High
+B-25681,2023-06-04,Hunter,Florida,SE,Sunday,1625,3,567,EFT,Electronics,Phones,3174.000000,High
+B-25681,2023-06-04,Hunter,Florida,SE,Sunday,243,2,129,Credit Card,Furniture,Chairs,228.000000,Low
+B-25681,2023-06-04,Hunter,Florida,SE,Sunday,44,1,47,Debit Card,Clothing,Dress,-3.000000,Loss
+B-25681,2023-06-04,Hunter,Florida,SE,Sunday,523,7,46,Credit Card,Clothing,Pants,3339.000000,High
+B-25681,2023-06-04,Hunter,Florida,SE,Sunday,68,3,32,EFT,Electronics,Accessories,108.000000,Low
+B-25806,2023-10-06,Mills,Florida,SE,Friday,632,4,187,EFT,Furniture,Tables,1780.000000,Avg
+B-25724,2023-07-19,Davis,Florida,SE,Wednesday,168,2,110,Credit Card,Furniture,Bookcases,116.000000,Low
+B-25797,2023-09-30,Wong,Florida,SE,Saturday,148,2,125,EFT,Furniture,Bookcases,46.000000,Low
+B-25797,2023-09-30,Wong,Florida,SE,Saturday,1630,5,166,EFT,Furniture,Tables,7320.000000,High
+B-25797,2023-09-30,Wong,Florida,SE,Saturday,31,2,15,EFT,Clothing,Hat,32.000000,Low
+B-25797,2023-09-30,Wong,Florida,SE,Saturday,413,9,81,Credit Card,Furniture,Chairs,2988.000000,High
+B-25797,2023-09-30,Wong,Florida,SE,Saturday,89,5,19,COD,Clothing,Dress,350.000000,Low
+B-25797,2023-09-30,Wong,Florida,SE,Saturday,976,4,171,Credit Card,Electronics,Accessories,3220.000000,High
+B-25747,2023-08-11,Clark,Florida,SE,Friday,877,2,241,COD,Furniture,Bookcases,1272.000000,Avg
+B-26047,2023-03-04,Edwards,Florida,SE,Saturday,55,5,9,Credit Card,Clothing,Skirt,230.000000,Low
+B-25695,2023-06-18,Powers,Georgia,SE,Sunday,171,9,17,Debit Card,Clothing,Shirt,1386.000000,Avg
+B-25932,2023-01-04,Hicks,Florida,SE,Wednesday,71,4,21,Credit Card,Furniture,Furnishings,200.000000,Low
+B-25785,2023-09-15,Thompson,Georgia,SE,Friday,192,3,113,Credit Card,Clothing,Dress,237.000000,Low
+B-25785,2023-09-15,Thompson,Georgia,SE,Friday,268,3,98,Credit Card,Clothing,Dress,510.000000,Low
+B-25785,2023-09-15,Thompson,Georgia,SE,Friday,45,2,23,Credit Card,Clothing,T - shirt,44.000000,Low
+B-25785,2023-09-15,Thompson,Georgia,SE,Friday,595,3,101,Credit Card,Clothing,Dress,1482.000000,Avg
+B-25926,2023-12-30,Rice,Florida,SE,Saturday,57,5,10,Debit Card,Clothing,Leggings,235.000000,Low
+B-25639,2023-04-27,Cooper,Florida,SE,Thursday,1629,3,594,Credit Card,Electronics,Phones,3105.000000,High
+B-25770,2023-09-02,Foster,Florida,SE,Saturday,110,1,75,Credit Card,Furniture,Furnishings,35.000000,Low
+B-25770,2023-09-02,Foster,Florida,SE,Saturday,287,12,47,EFT,Furniture,Chairs,2880.000000,High
+B-25770,2023-09-02,Foster,Florida,SE,Saturday,299,2,93,Credit Card,Furniture,Bookcases,412.000000,Low
+B-25770,2023-09-02,Foster,Florida,SE,Saturday,375,3,65,COD,Furniture,Bookcases,930.000000,Low
+B-25934,2023-01-04,Chen,Florida,SE,Wednesday,105,6,12,EFT,Clothing,Dress,558.000000,Low
+B-25709,2023-07-01,Graham,Florida,SE,Saturday,33,7,6,EFT,Clothing,Dress,189.000000,Low
+B-25709,2023-07-01,Graham,Florida,SE,Saturday,41,1,47,COD,Furniture,Chairs,-6.000000,Loss
+B-25990,2023-02-02,Larson,North Carolina,SE,Thursday,71,3,13,Debit Card,Clothing,Dress,174.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,109,1,69,Credit Card,Furniture,Furnishings,40.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,129,2,59,EFT,Electronics,Phones,140.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,152,5,31,Credit Card,Clothing,Dress,605.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,215,2,123,Credit Card,Clothing,Dress,184.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,222,5,30,Credit Card,Clothing,Hat,960.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,223,7,23,Credit Card,Clothing,Shirt,1400.000000,Avg
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,26,1,43,Credit Card,Clothing,Scarf,-17.000000,Loss
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,352,8,35,Debit Card,Clothing,Scarf,2536.000000,High
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,51,2,50,Credit Card,Electronics,Electronic Games,2.000000,Low
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,770,3,149,Credit Card,Electronics,Accessories,1863.000000,Avg
+B-25999,2023-02-05,Nichols,North Carolina,SE,Sunday,93,4,40,EFT,Clothing,Scarf,212.000000,Low
+B-25897,2023-12-06,Miller,Florida,SE,Wednesday,24,5,3,Debit Card,Clothing,Hat,105.000000,Low
+B-25897,2023-12-06,Miller,Florida,SE,Wednesday,33,3,8,Credit Card,Clothing,Hat,75.000000,Low
+B-25897,2023-12-06,Miller,Florida,SE,Wednesday,43,3,13,Credit Card,Clothing,Scarf,90.000000,Low
+B-25897,2023-12-06,Miller,Florida,SE,Wednesday,734,6,87,COD,Electronics,Electronic Games,3882.000000,High
+B-26086,2023-03-26,Cox,Tennessee,SE,Sunday,25,2,12,Debit Card,Clothing,Hat,26.000000,Low
+B-26086,2023-03-26,Cox,Tennessee,SE,Sunday,43,2,13,EFT,Clothing,T - shirt,60.000000,Low
+B-26086,2023-03-26,Cox,Tennessee,SE,Sunday,762,6,110,Credit Card,Electronics,Printers,3912.000000,High
+B-26001,2023-02-07,Harvey,North Carolina,SE,Tuesday,13,2,7,Credit Card,Clothing,Hat,12.000000,Low
+B-26001,2023-02-07,Harvey,North Carolina,SE,Tuesday,149,4,33,Credit Card,Furniture,Furnishings,464.000000,Low
+B-26001,2023-02-07,Harvey,North Carolina,SE,Tuesday,50,6,10,Debit Card,Clothing,Skirt,240.000000,Low
+B-26001,2023-02-07,Harvey,North Carolina,SE,Tuesday,8,2,3,EFT,Clothing,Skirt,10.000000,Low
+B-25825,2023-10-21,Cook,Florida,SE,Saturday,115,6,15,Credit Card,Clothing,Scarf,600.000000,Low
+B-25825,2023-10-21,Cook,Florida,SE,Saturday,140,5,27,Credit Card,Clothing,Dress,565.000000,Low
+B-25825,2023-10-21,Cook,Florida,SE,Saturday,911,5,111,Debit Card,Electronics,Phones,4000.000000,High
+B-25812,2023-10-10,Armstrong,Florida,SE,Tuesday,259,5,42,EFT,Clothing,Hat,1085.000000,Avg
+B-25737,2023-08-01,Johnson,Florida,SE,Tuesday,187,3,67,Credit Card,Clothing,Pants,360.000000,Low
+B-25623,2023-04-22,Jackson,Georgia,SE,Saturday,105,2,43,Debit Card,Clothing,Scarf,124.000000,Low
+B-25623,2023-04-22,Jackson,Georgia,SE,Saturday,149,4,59,Credit Card,Clothing,Dress,360.000000,Low
+B-25623,2023-04-22,Jackson,Georgia,SE,Saturday,158,3,30,EFT,Clothing,Scarf,384.000000,Low
+B-25623,2023-04-22,Jackson,Georgia,SE,Saturday,53,4,13,Credit Card,Clothing,Scarf,160.000000,Low
+B-25833,2023-10-29,Hudson,Florida,SE,Sunday,36,9,4,Credit Card,Clothing,Hat,288.000000,Low
+B-25833,2023-10-29,Hudson,Florida,SE,Sunday,45,3,10,Credit Card,Clothing,Scarf,105.000000,Low
+B-25833,2023-10-29,Hudson,Florida,SE,Sunday,64,5,7,EFT,Clothing,Hat,285.000000,Low
+B-25987,2023-01-31,Perkins,North Carolina,SE,Tuesday,299,6,50,Credit Card,Clothing,Scarf,1494.000000,Avg
+B-25987,2023-01-31,Perkins,North Carolina,SE,Tuesday,88,7,11,EFT,Clothing,Hat,539.000000,Low
+B-25685,2023-06-10,Davis,Florida,SE,Saturday,264,3,98,Debit Card,Furniture,Furnishings,498.000000,Low
+B-25685,2023-06-10,Davis,Florida,SE,Saturday,45,4,12,Credit Card,Clothing,Shirt,132.000000,Low
+B-25685,2023-06-10,Davis,Florida,SE,Saturday,51,2,22,EFT,Furniture,Furnishings,58.000000,Low
+B-25685,2023-06-10,Davis,Florida,SE,Saturday,529,3,131,Debit Card,Electronics,Phones,1194.000000,Avg
+B-25762,2023-08-26,Wells,Florida,SE,Saturday,1316,7,113,COD,Electronics,Electronic Games,8421.000000,High
+B-25762,2023-08-26,Wells,Florida,SE,Saturday,27,3,8,Credit Card,Clothing,Skirt,57.000000,Low
+B-25762,2023-08-26,Wells,Florida,SE,Saturday,98,2,52,EFT,Clothing,Dress,92.000000,Low
+B-25918,2023-12-22,Cunningham,Florida,SE,Friday,244,5,73,Credit Card,Furniture,Furnishings,855.000000,Low
+B-25627,2023-04-23,Robinson,Florida,SE,Sunday,55,4,24,Credit Card,Clothing,Scarf,124.000000,Low
+B-25675,2023-05-31,Smith,Florida,SE,Wednesday,929,9,114,Credit Card,Clothing,Dress,7335.000000,High
+B-25824,2023-10-20,Keller,Florida,SE,Friday,101,2,32,Credit Card,Furniture,Furnishings,138.000000,Low
+B-26096,2023-03-28,Jackson,Georgia,SE,Tuesday,103,2,29,COD,Clothing,Dress,148.000000,Low
+B-26096,2023-03-28,Jackson,Georgia,SE,Tuesday,140,4,21,EFT,Clothing,Shirt,476.000000,Low
+B-26096,2023-03-28,Jackson,Georgia,SE,Tuesday,264,3,97,Credit Card,Clothing,Pants,501.000000,Low
+B-26096,2023-03-28,Jackson,Georgia,SE,Tuesday,45,3,12,EFT,Clothing,Leggings,99.000000,Low
+B-26096,2023-03-28,Jackson,Georgia,SE,Tuesday,451,3,142,EFT,Electronics,Phones,927.000000,Low
+B-26096,2023-03-28,Jackson,Georgia,SE,Tuesday,88,3,26,Credit Card,Electronics,Accessories,186.000000,Low
+B-25982,2023-01-29,Kelley,North Carolina,SE,Sunday,13,1,10,Credit Card,Clothing,Leggings,3.000000,Low
+B-26067,2023-03-16,Patterson,Florida,SE,Thursday,1120,6,154,EFT,Clothing,Dress,5796.000000,High
+B-26067,2023-03-16,Patterson,Florida,SE,Thursday,1137,7,164,EFT,Electronics,Printers,6811.000000,High
+B-26067,2023-03-16,Patterson,Florida,SE,Thursday,53,4,13,Credit Card,Clothing,Hat,160.000000,Low
+B-26067,2023-03-16,Patterson,Florida,SE,Thursday,618,4,148,COD,Furniture,Bookcases,1880.000000,Avg
+B-26067,2023-03-16,Patterson,Florida,SE,Thursday,67,4,16,EFT,Clothing,T - shirt,204.000000,Low
+B-25645,2023-05-01,Dominguez,Florida,SE,Monday,133,1,175,EFT,Electronics,Printers,-42.000000,Loss
+B-25645,2023-05-01,Dominguez,Florida,SE,Monday,183,5,50,EFT,Electronics,Phones,665.000000,Low
+B-25645,2023-05-01,Dominguez,Florida,SE,Monday,273,4,90,Credit Card,Electronics,Phones,732.000000,Low
+B-25645,2023-05-01,Dominguez,Florida,SE,Monday,86,4,22,Debit Card,Clothing,T - shirt,256.000000,Low
+B-25729,2023-07-22,Johnston,Florida,SE,Saturday,1549,4,497,COD,Electronics,Phones,4208.000000,High
+B-25857,2023-11-10,Torres,Florida,SE,Friday,227,2,84,EFT,Furniture,Furnishings,286.000000,Low
+B-25857,2023-11-10,Torres,Florida,SE,Friday,324,8,36,COD,Electronics,Accessories,2304.000000,High
+B-25857,2023-11-10,Torres,Florida,SE,Friday,598,4,108,EFT,Furniture,Bookcases,1960.000000,Avg
+B-25688,2023-06-11,Shelton,Florida,SE,Sunday,352,5,139,COD,Clothing,Dress,1065.000000,Avg
+B-26100,2023-03-31,Robinson,Florida,SE,Friday,34,2,12,Debit Card,Clothing,T - shirt,44.000000,Low
+B-26100,2023-03-31,Robinson,Florida,SE,Friday,72,2,28,Credit Card,Clothing,Shirt,88.000000,Low
+B-26100,2023-03-31,Robinson,Florida,SE,Friday,828,2,299,Credit Card,Furniture,Chairs,1058.000000,Avg
+B-25838,2023-10-29,Sanders,Florida,SE,Sunday,161,3,40,Credit Card,Clothing,Scarf,363.000000,Low
+B-25838,2023-10-29,Sanders,Florida,SE,Sunday,70,5,9,Credit Card,Clothing,Hat,305.000000,Low
+B-25838,2023-10-29,Sanders,Florida,SE,Sunday,81,7,9,Credit Card,Clothing,Hat,504.000000,Low
+B-25838,2023-10-29,Sanders,Florida,SE,Sunday,955,3,217,Debit Card,Electronics,Printers,2214.000000,High
+B-25734,2023-07-29,Reyes,Florida,SE,Saturday,108,3,42,EFT,Electronics,Electronic Games,198.000000,Low
+B-26078,2023-03-22,Young,Georgia,SE,Wednesday,137,3,25,Credit Card,Clothing,Scarf,336.000000,Low
+B-26078,2023-03-22,Young,Georgia,SE,Wednesday,17,2,5,Credit Card,Clothing,Skirt,24.000000,Low
+B-26078,2023-03-22,Young,Georgia,SE,Wednesday,44,2,12,EFT,Clothing,T - shirt,64.000000,Low
+B-26078,2023-03-22,Young,Georgia,SE,Wednesday,557,2,334,Credit Card,Electronics,Electronic Games,446.000000,Low
+B-25701,2023-06-26,Ray,Florida,SE,Monday,10,2,9,Credit Card,Clothing,Skirt,2.000000,Low
+B-25701,2023-06-26,Ray,Florida,SE,Monday,33,3,21,EFT,Clothing,Shirt,36.000000,Low
+B-25701,2023-06-26,Ray,Florida,SE,Monday,33,5,9,Credit Card,Clothing,Hat,120.000000,Low
+B-25701,2023-06-26,Ray,Florida,SE,Monday,98,2,72,EFT,Furniture,Chairs,52.000000,Low
+B-25667,2023-05-23,Moore,Tennessee,SE,Tuesday,1030,8,103,EFT,Electronics,Printers,7416.000000,High
+B-25667,2023-05-23,Moore,Tennessee,SE,Tuesday,11,4,3,Credit Card,Clothing,Hat,32.000000,Low
+B-25667,2023-05-23,Moore,Tennessee,SE,Tuesday,344,3,126,Debit Card,Clothing,Dress,654.000000,Low
+B-25667,2023-05-23,Moore,Tennessee,SE,Tuesday,41,5,7,COD,Clothing,Skirt,170.000000,Low
+B-25667,2023-05-23,Moore,Tennessee,SE,Tuesday,516,4,112,EFT,Furniture,Bookcases,1616.000000,Avg
+B-25979,2023-01-27,Jenkins,Florida,SE,Friday,12,2,6,Credit Card,Clothing,Hat,12.000000,Low
+B-25979,2023-01-27,Jenkins,Florida,SE,Friday,284,2,120,EFT,Furniture,Bookcases,328.000000,Low
+B-25979,2023-01-27,Jenkins,Florida,SE,Friday,560,3,172,Debit Card,Clothing,Dress,1164.000000,Avg
+B-25979,2023-01-27,Jenkins,Florida,SE,Friday,57,2,15,EFT,Clothing,Shirt,84.000000,Low
+B-25979,2023-01-27,Jenkins,Florida,SE,Friday,82,3,36,EFT,Clothing,Shirt,138.000000,Low
+B-26065,2023-03-16,Diaz,Florida,SE,Thursday,146,5,25,Credit Card,Clothing,Scarf,605.000000,Low
+B-25721,2023-07-16,Marshall,Tennessee,SE,Sunday,149,2,95,Credit Card,Electronics,Phones,108.000000,Low
+B-25721,2023-07-16,Marshall,Tennessee,SE,Sunday,191,5,28,EFT,Clothing,Shirt,815.000000,Low
+B-25721,2023-07-16,Marshall,Tennessee,SE,Sunday,29,7,7,EFT,Clothing,Skirt,154.000000,Low
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,1402,11,118,EFT,Clothing,Dress,14124.000000,High
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,18,3,6,Credit Card,Clothing,Hat,36.000000,Low
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,24,4,6,COD,Clothing,Skirt,72.000000,Low
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,257,4,127,Debit Card,Clothing,Dress,520.000000,Low
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,40,5,15,COD,Clothing,Hat,125.000000,Low
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,60,4,18,Debit Card,Clothing,Hat,168.000000,Low
+B-25793,2023-09-24,Perry,Florida,SE,Sunday,63,6,15,Credit Card,Clothing,Shirt,288.000000,Low
+B-25677,2023-06-02,Flores,Georgia,SE,Friday,20,1,22,EFT,Electronics,Accessories,-2.000000,Loss
+B-25690,2023-06-15,Stephens,Florida,SE,Thursday,31,3,14,Credit Card,Clothing,Skirt,51.000000,Low
+B-25879,2023-11-24,Perry,Florida,SE,Friday,57,2,43,Credit Card,Clothing,Shirt,28.000000,Low
+B-25719,2023-07-12,Hughes,Florida,SE,Wednesday,29,2,10,Credit Card,Clothing,Scarf,38.000000,Low
+B-25911,2023-12-15,Oliver,Florida,SE,Friday,40,1,25,Credit Card,Clothing,Shirt,15.000000,Low
+B-25891,2023-12-04,Gutierrez,Florida,SE,Monday,121,4,20,EFT,Clothing,Scarf,404.000000,Low
+B-25891,2023-12-04,Gutierrez,Florida,SE,Monday,25,2,12,EFT,Clothing,Hat,26.000000,Low
+B-25891,2023-12-04,Gutierrez,Florida,SE,Monday,97,7,9,EFT,Clothing,Hat,616.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,19,2,6,Debit Card,Clothing,Hat,26.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,204,4,75,EFT,Clothing,Hat,516.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,25,3,5,Debit Card,Clothing,Leggings,60.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,336,2,140,Credit Card,Electronics,Phones,392.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,37,3,7,Debit Card,Clothing,Hat,90.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,455,8,47,Credit Card,Electronics,Accessories,3264.000000,High
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,60,2,35,Credit Card,Furniture,Furnishings,50.000000,Low
+B-25903,2023-12-10,Ellis,Florida,SE,Sunday,74,2,21,Debit Card,Clothing,Shirt,106.000000,Low
+B-26000,2023-02-06,Johnson,North Carolina,SE,Monday,43,4,13,Credit Card,Clothing,Skirt,120.000000,Low
+B-26000,2023-02-06,Johnson,North Carolina,SE,Monday,597,4,126,Debit Card,Furniture,Chairs,1884.000000,Avg
+B-26000,2023-02-06,Johnson,North Carolina,SE,Monday,676,3,175,COD,Electronics,Printers,1503.000000,Avg
+B-25752,2023-08-14,Norris,Florida,SE,Monday,1361,9,129,Credit Card,Furniture,Bookcases,11088.000000,High
+B-25752,2023-08-14,Norris,Florida,SE,Monday,33,1,60,COD,Furniture,Chairs,-27.000000,Loss
+B-25752,2023-08-14,Norris,Florida,SE,Monday,735,6,162,Credit Card,Electronics,Printers,3438.000000,High
+B-25752,2023-08-14,Norris,Florida,SE,Monday,76,5,10,Credit Card,Clothing,Scarf,330.000000,Low
+B-25752,2023-08-14,Norris,Florida,SE,Monday,761,9,55,Credit Card,Electronics,Electronic Games,6354.000000,High
+B-25752,2023-08-14,Norris,Florida,SE,Monday,8,2,5,Credit Card,Clothing,Hat,6.000000,Low
+B-25752,2023-08-14,Norris,Florida,SE,Monday,91,6,13,EFT,Clothing,T - shirt,468.000000,Low
+B-25829,2023-10-25,Mendoza,Tennessee,SE,Wednesday,345,7,44,Debit Card,Clothing,Hat,2107.000000,High
+B-25865,2023-11-15,Burns,Florida,SE,Wednesday,85,3,29,COD,Clothing,Dress,168.000000,Low
+B-25631,2023-04-24,Myers,Tennessee,SE,Monday,89,2,89,Credit Card,Furniture,Furnishings,0.000000,Loss
+B-25937,2023-01-05,Martin,Tennessee,SE,Thursday,1101,3,250,EFT,Furniture,Bookcases,2553.000000,High
+B-25641,2023-04-27,Brooks,Georgia,SE,Thursday,22,1,28,Credit Card,Furniture,Furnishings,-6.000000,Loss
+B-25711,2023-07-06,Foster,Florida,SE,Thursday,100,4,40,Credit Card,Clothing,Hat,240.000000,Low
+B-25991,2023-02-03,Silva,Florida,SE,Friday,13,2,4,EFT,Clothing,Hat,18.000000,Low
+B-25991,2023-02-03,Silva,Florida,SE,Friday,188,7,25,Credit Card,Clothing,Shirt,1141.000000,Avg
+B-25991,2023-02-03,Silva,Florida,SE,Friday,90,2,30,EFT,Furniture,Chairs,120.000000,Low
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,132,3,28,Credit Card,Clothing,Shirt,312.000000,Low
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,23,2,8,Debit Card,Clothing,Hat,30.000000,Low
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,252,2,98,EFT,Electronics,Phones,308.000000,Low
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,32,2,15,EFT,Clothing,Shirt,34.000000,Low
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,429,3,137,EFT,Furniture,Chairs,876.000000,Low
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,637,8,53,Debit Card,Electronics,Phones,4672.000000,High
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,681,4,106,Credit Card,Furniture,Chairs,2300.000000,High
+B-25959,2023-01-18,Harper,Florida,SE,Wednesday,82,6,10,EFT,Clothing,Hat,432.000000,Low
+B-25847,2023-11-03,Owens,Tennessee,SE,Friday,264,10,19,Debit Card,Furniture,Furnishings,2450.000000,High
+B-25847,2023-11-03,Owens,Tennessee,SE,Friday,643,2,209,Credit Card,Electronics,Printers,868.000000,Low
+B-26049,2023-03-05,Cooper,Florida,SE,Sunday,100,2,36,EFT,Clothing,Hat,128.000000,Low
+B-25844,2023-11-03,Gregory,Florida,SE,Friday,86,2,39,Debit Card,Clothing,Dress,94.000000,Low
+B-25801,2023-10-01,Henry,Florida,SE,Sunday,15,1,17,Debit Card,Clothing,T - shirt,-2.000000,Loss
+B-25801,2023-10-01,Henry,Florida,SE,Sunday,21,4,8,Credit Card,Clothing,Leggings,52.000000,Low
+B-25801,2023-10-01,Henry,Florida,SE,Sunday,49,2,40,Credit Card,Clothing,Scarf,18.000000,Low
+B-25801,2023-10-01,Henry,Florida,SE,Sunday,64,4,15,Credit Card,Clothing,Dress,196.000000,Low
+B-26069,2023-03-17,Ross,Georgia,SE,Friday,55,2,19,Credit Card,Clothing,Shirt,72.000000,Low
+B-25908,2023-12-12,Hanson,North Carolina,SE,Tuesday,179,5,41,Credit Card,Clothing,Shirt,690.000000,Low
+B-26061,2023-03-14,Collins,Florida,SE,Tuesday,109,2,29,EFT,Clothing,Scarf,160.000000,Low
+B-26061,2023-03-14,Collins,Florida,SE,Tuesday,206,1,194,COD,Electronics,Printers,12.000000,Low
+B-26061,2023-03-14,Collins,Florida,SE,Tuesday,27,2,10,Debit Card,Clothing,T - shirt,34.000000,Low
+B-26061,2023-03-14,Collins,Florida,SE,Tuesday,508,2,153,Debit Card,Electronics,Accessories,710.000000,Low
+B-26061,2023-03-14,Collins,Florida,SE,Tuesday,642,5,92,Credit Card,Clothing,Dress,2750.000000,High
+B-26061,2023-03-14,Collins,Florida,SE,Tuesday,965,3,344,Credit Card,Electronics,Printers,1863.000000,Avg
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,102,2,45,COD,Clothing,Scarf,114.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,111,9,11,COD,Clothing,Hat,900.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,120,5,19,Credit Card,Clothing,Scarf,505.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,248,2,72,Debit Card,Electronics,Phones,352.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,250,3,50,Credit Card,Clothing,Pants,600.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,30,2,13,EFT,Clothing,Shirt,34.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,40,1,22,COD,Electronics,Accessories,18.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,50,1,36,Credit Card,Electronics,Electronic Games,14.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,742,2,272,COD,Furniture,Bookcases,940.000000,Low
+B-25951,2023-01-13,Castro,Georgia,SE,Friday,89,2,30,EFT,Clothing,Scarf,118.000000,Low
+B-25739,2023-08-03,Stone,Tennessee,SE,Thursday,133,2,95,Credit Card,Furniture,Chairs,76.000000,Low
+B-25995,2023-02-04,Terry,North Carolina,SE,Saturday,1314,3,324,COD,Furniture,Bookcases,2970.000000,High
+B-26015,2023-02-14,Young,Georgia,SE,Tuesday,128,1,73,Credit Card,Clothing,Dress,55.000000,Low
+B-25912,2023-12-16,Mccoy,North Carolina,SE,Saturday,102,6,15,Credit Card,Clothing,T - shirt,522.000000,Low
+B-26094,2023-03-27,Gonzalez,Florida,SE,Monday,152,6,17,Credit Card,Clothing,Scarf,810.000000,Low
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,114,6,12,Credit Card,Furniture,Furnishings,612.000000,Low
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,128,4,20,Credit Card,Clothing,Hat,432.000000,Low
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,17,2,8,EFT,Clothing,Skirt,18.000000,Low
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,1745,2,812,COD,Furniture,Tables,1866.000000,Avg
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,315,3,108,COD,Furniture,Chairs,621.000000,Low
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,498,4,154,EFT,Clothing,Dress,1376.000000,Avg
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,652,6,107,Debit Card,Furniture,Furnishings,3270.000000,High
+B-26003,2023-02-08,Dunn,Florida,SE,Wednesday,79,3,21,Credit Card,Clothing,T - shirt,174.000000,Low
+B-25988,2023-01-31,Jacobs,North Carolina,SE,Tuesday,79,9,23,Credit Card,Clothing,Skirt,504.000000,Low
+B-25818,2023-10-14,Day,Florida,SE,Saturday,28,4,4,Credit Card,Clothing,Hat,96.000000,Low
+B-25818,2023-10-14,Day,Florida,SE,Saturday,32,2,11,EFT,Clothing,Leggings,42.000000,Low
+B-25818,2023-10-14,Day,Florida,SE,Saturday,36,4,9,Credit Card,Clothing,Shirt,108.000000,Low
+B-25818,2023-10-14,Day,Florida,SE,Saturday,75,9,5,EFT,Clothing,Hat,630.000000,Low
+B-25818,2023-10-14,Day,Florida,SE,Saturday,94,2,37,EFT,Furniture,Furnishings,114.000000,Low
+B-25965,2023-01-21,Davidson,Georgia,SE,Saturday,17,3,3,Debit Card,Clothing,Hat,42.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,11,2,8,Credit Card,Clothing,Skirt,6.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,159,1,155,Credit Card,Clothing,Dress,4.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,16,2,13,Credit Card,Clothing,T - shirt,6.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,172,3,92,EFT,Furniture,Chairs,240.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,200,4,65,EFT,Furniture,Bookcases,540.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,44,3,17,EFT,Clothing,Scarf,81.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,457,4,125,Credit Card,Clothing,Dress,1328.000000,Avg
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,49,1,46,Credit Card,Clothing,Shirt,3.000000,Low
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,7,1,7,Credit Card,Clothing,Leggings,0.000000,Loss
+B-25651,2023-05-07,Collins,Florida,SE,Sunday,823,7,120,Credit Card,Furniture,Chairs,4921.000000,High
+B-25775,2023-09-08,Herrera,Tennessee,SE,Friday,50,2,34,Credit Card,Clothing,Scarf,32.000000,Low
+B-25731,2023-07-26,Cole,Georgia,SE,Wednesday,131,8,36,Credit Card,Furniture,Furnishings,760.000000,Low
+B-25741,2023-08-03,Burke,Florida,SE,Thursday,482,7,70,EFT,Electronics,Electronic Games,2884.000000,High
+B-25885,2023-11-28,Delgado,Florida,SE,Tuesday,349,7,50,COD,Clothing,Scarf,2093.000000,High
+B-25885,2023-11-28,Delgado,Florida,SE,Tuesday,394,2,124,EFT,Furniture,Bookcases,540.000000,Low
+B-25885,2023-11-28,Delgado,Florida,SE,Tuesday,734,2,243,Credit Card,Furniture,Chairs,982.000000,Low
+B-25885,2023-11-28,Delgado,Florida,SE,Tuesday,94,2,34,COD,Clothing,Shirt,120.000000,Low
+B-25983,2023-01-30,Jimenez,North Carolina,SE,Monday,161,8,49,Credit Card,Furniture,Furnishings,896.000000,Low
+B-25983,2023-01-30,Jimenez,North Carolina,SE,Monday,230,2,113,EFT,Clothing,Dress,234.000000,Low
+B-25983,2023-01-30,Jimenez,North Carolina,SE,Monday,32,1,44,COD,Furniture,Chairs,-12.000000,Loss
+B-25983,2023-01-30,Jimenez,North Carolina,SE,Monday,50,6,9,EFT,Clothing,T - shirt,246.000000,Low
+B-25983,2023-01-30,Jimenez,North Carolina,SE,Monday,561,5,89,COD,Furniture,Bookcases,2360.000000,High
+B-25904,2023-12-10,Coleman,North Carolina,SE,Sunday,83,2,36,Credit Card,Furniture,Chairs,94.000000,Low
+B-25904,2023-12-10,Coleman,North Carolina,SE,Sunday,871,2,370,EFT,Furniture,Bookcases,1002.000000,Avg
+B-25663,2023-05-19,James,Florida,SE,Friday,294,2,78,Debit Card,Electronics,Printers,432.000000,Low
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,13,2,13,Credit Card,Clothing,Skirt,0.000000,Loss
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,32,6,8,EFT,Clothing,Dress,144.000000,Low
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,632,6,53,Credit Card,Clothing,Dress,3474.000000,High
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,68,1,98,EFT,Electronics,Phones,-30.000000,Loss
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,72,1,121,Credit Card,Electronics,Phones,-49.000000,Loss
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,76,9,16,Credit Card,Clothing,Hat,540.000000,Low
+B-25693,2023-06-18,Jensen,Florida,SE,Sunday,82,5,24,EFT,Clothing,T - shirt,290.000000,Low
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,110,4,45,EFT,Clothing,Dress,260.000000,Low
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,312,7,89,Credit Card,Furniture,Chairs,1561.000000,Avg
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,396,9,47,Credit Card,Clothing,Dress,3141.000000,High
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,44,3,23,Debit Card,Clothing,Hat,63.000000,Low
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,6,1,9,EFT,Clothing,Hat,-3.000000,Loss
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,7,3,4,Credit Card,Clothing,Hat,9.000000,Low
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,74,8,25,EFT,Clothing,Skirt,392.000000,Low
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,9,2,8,COD,Clothing,Skirt,2.000000,Low
+B-25655,2023-05-11,Diaz,Florida,SE,Thursday,97,2,80,Credit Card,Clothing,Pants,34.000000,Low

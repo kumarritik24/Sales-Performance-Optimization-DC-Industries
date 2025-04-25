@@ -1,0 +1,301 @@
+Order ID,Order Date,CustomerName,State,Region,DOW,Sale Price,Quantity,Cost per Item,PaymentMode,Category,Sub-Category,Profit,Profitability
+B-25915,2023-12-19,Leonard,Illinois,MW,Tuesday,277,1,274,Credit Card,Electronics,Electronic Games,3.000000,Low
+B-25794,2023-09-24,Anderson,Indiana,MW,Sunday,176,6,23,Credit Card,Electronics,Accessories,918.000000,Low
+B-26007,2023-02-09,Johnson,Missouri,MW,Thursday,311,2,120,Credit Card,Furniture,Bookcases,382.000000,Low
+B-25888,2023-12-02,Miller,Illinois,MW,Saturday,18,3,5,COD,Clothing,Hat,39.000000,Low
+B-25888,2023-12-02,Miller,Illinois,MW,Saturday,223,3,73,Credit Card,Electronics,Phones,450.000000,Low
+B-25888,2023-12-02,Miller,Illinois,MW,Saturday,646,3,286,Credit Card,Electronics,Electronic Games,1080.000000,Avg
+B-25866,2023-11-16,Morgan,Indiana,MW,Thursday,51,2,19,Credit Card,Clothing,Scarf,64.000000,Low
+B-25607,2023-04-06,Ramirez,Missouri,MW,Thursday,50,4,16,Credit Card,Clothing,Leggings,136.000000,Low
+B-25875,2023-11-24,Patel,Ohio,MW,Friday,248,2,120,COD,Clothing,Dress,256.000000,Low
+B-25967,2023-01-21,Caldwell,Ohio,MW,Saturday,119,4,36,Credit Card,Furniture,Furnishings,332.000000,Low
+B-25967,2023-01-21,Caldwell,Ohio,MW,Saturday,17,2,8,Debit Card,Clothing,Skirt,18.000000,Low
+B-25967,2023-01-21,Caldwell,Ohio,MW,Saturday,229,9,19,Debit Card,Clothing,Dress,1890.000000,Avg
+B-25968,2023-01-21,Montgomery,Illinois,MW,Saturday,811,7,94,EFT,Electronics,Accessories,5019.000000,High
+B-26040,2023-02-26,Long,Illinois,MW,Sunday,113,4,22,Debit Card,Clothing,Hat,364.000000,Low
+B-26040,2023-02-26,Long,Illinois,MW,Sunday,38,2,15,Credit Card,Clothing,Scarf,46.000000,Low
+B-26040,2023-02-26,Long,Illinois,MW,Sunday,833,3,247,EFT,Clothing,Pants,1758.000000,Avg
+B-25830,2023-10-26,Kim,Indiana,MW,Thursday,1063,7,143,EFT,Electronics,Phones,6440.000000,High
+B-25830,2023-10-26,Kim,Indiana,MW,Thursday,1954,3,391,COD,Electronics,Phones,4689.000000,High
+B-25830,2023-10-26,Kim,Indiana,MW,Thursday,41,6,5,Credit Card,Clothing,Hat,216.000000,Low
+B-25830,2023-10-26,Kim,Indiana,MW,Thursday,54,2,27,EFT,Clothing,Dress,54.000000,Low
+B-25830,2023-10-26,Kim,Indiana,MW,Thursday,71,8,9,Credit Card,Clothing,Skirt,496.000000,Low
+B-25830,2023-10-26,Kim,Indiana,MW,Thursday,93,2,39,Credit Card,Electronics,Accessories,108.000000,Low
+B-25882,2023-11-26,Richards,Illinois,MW,Sunday,121,4,26,Credit Card,Clothing,Scarf,380.000000,Low
+B-25774,2023-09-07,Alvarado,Illinois,MW,Thursday,38,2,22,EFT,Furniture,Furnishings,32.000000,Low
+B-26008,2023-02-09,Elliott,Wisconsin,MW,Thursday,199,1,200,COD,Clothing,Dress,-1.000000,Loss
+B-26008,2023-02-09,Elliott,Wisconsin,MW,Thursday,206,4,39,COD,Clothing,Hat,668.000000,Low
+B-26008,2023-02-09,Elliott,Wisconsin,MW,Thursday,22,1,18,Credit Card,Clothing,Scarf,4.000000,Low
+B-26008,2023-02-09,Elliott,Wisconsin,MW,Thursday,57,5,7,Credit Card,Clothing,Leggings,250.000000,Low
+B-25973,2023-01-24,Reed,Ohio,MW,Tuesday,39,5,5,Credit Card,Clothing,Leggings,170.000000,Low
+B-25973,2023-01-24,Reed,Ohio,MW,Tuesday,398,8,36,Credit Card,Clothing,Hat,2896.000000,High
+B-25973,2023-01-24,Reed,Ohio,MW,Tuesday,4141,13,188,Credit Card,Electronics,Printers,51389.000000,High
+B-25973,2023-01-24,Reed,Ohio,MW,Tuesday,571,12,39,Debit Card,Clothing,Scarf,6384.000000,High
+B-25973,2023-01-24,Reed,Ohio,MW,Tuesday,79,2,20,Debit Card,Clothing,Shirt,118.000000,Low
+B-26042,2023-02-28,Bell,Indiana,MW,Tuesday,36,3,7,EFT,Clothing,Scarf,87.000000,Low
+B-26006,2023-02-09,Washington,Michigan,MW,Thursday,1301,5,146,COD,Electronics,Accessories,5775.000000,High
+B-26019,2023-02-15,Perez,Ohio,MW,Wednesday,585,13,32,Credit Card,Clothing,T - shirt,7189.000000,High
+B-26081,2023-03-22,Wilson,Wisconsin,MW,Wednesday,169,3,56,Credit Card,Electronics,Accessories,339.000000,Low
+B-26081,2023-03-22,Wilson,Wisconsin,MW,Wednesday,24,3,4,Debit Card,Clothing,Hat,60.000000,Low
+B-26081,2023-03-22,Wilson,Wisconsin,MW,Wednesday,359,5,139,Credit Card,Furniture,Bookcases,1100.000000,Avg
+B-26081,2023-03-22,Wilson,Wisconsin,MW,Wednesday,637,5,117,Credit Card,Clothing,Dress,2600.000000,High
+B-26081,2023-03-22,Wilson,Wisconsin,MW,Wednesday,79,4,12,EFT,Clothing,Scarf,268.000000,Low
+B-26081,2023-03-22,Wilson,Wisconsin,MW,Wednesday,93,3,59,EFT,Clothing,Dress,102.000000,Low
+B-25828,2023-10-24,Munoz,Illinois,MW,Tuesday,128,3,44,Debit Card,Clothing,Dress,252.000000,Low
+B-25828,2023-10-24,Munoz,Illinois,MW,Tuesday,15,1,13,Credit Card,Clothing,Leggings,2.000000,Low
+B-25828,2023-10-24,Munoz,Illinois,MW,Tuesday,222,5,37,COD,Clothing,Dress,925.000000,Low
+B-25828,2023-10-24,Munoz,Illinois,MW,Tuesday,537,3,143,Credit Card,Clothing,Dress,1182.000000,Avg
+B-25921,2023-12-25,Schneider,Illinois,MW,Monday,170,5,30,EFT,Clothing,T - shirt,700.000000,Low
+B-25921,2023-12-25,Schneider,Illinois,MW,Monday,71,5,23,EFT,Electronics,Accessories,240.000000,Low
+B-25921,2023-12-25,Schneider,Illinois,MW,Monday,84,2,63,Credit Card,Electronics,Accessories,42.000000,Low
+B-25612,2023-04-12,Nelson,Illinois,MW,Wednesday,259,2,157,Credit Card,Furniture,Chairs,204.000000,Low
+B-25625,2023-04-23,King,Missouri,MW,Sunday,59,3,30,Debit Card,Clothing,Leggings,87.000000,Low
+B-25625,2023-04-23,King,Missouri,MW,Sunday,635,5,197,Debit Card,Clothing,Dress,2190.000000,High
+B-25625,2023-04-23,King,Missouri,MW,Sunday,97,2,34,EFT,Clothing,Hat,126.000000,Low
+B-25887,2023-12-01,Reynolds,Ohio,MW,Friday,2125,6,393,EFT,Electronics,Printers,10392.000000,High
+B-25887,2023-12-01,Reynolds,Ohio,MW,Friday,83,6,13,EFT,Clothing,Shirt,420.000000,Low
+B-25614,2023-04-13,Mitchell,Indiana,MW,Thursday,494,4,110,Credit Card,Furniture,Bookcases,1536.000000,Avg
+B-25614,2023-04-13,Mitchell,Indiana,MW,Thursday,98,2,55,COD,Electronics,Electronic Games,86.000000,Low
+B-25786,2023-09-19,Reed,Ohio,MW,Tuesday,17,3,9,EFT,Clothing,Skirt,24.000000,Low
+B-25786,2023-09-19,Reed,Ohio,MW,Tuesday,1854,5,284,COD,Furniture,Bookcases,7850.000000,High
+B-25786,2023-09-19,Reed,Ohio,MW,Tuesday,44,3,26,COD,Clothing,Scarf,54.000000,Low
+B-25786,2023-09-19,Reed,Ohio,MW,Tuesday,623,3,272,EFT,Furniture,Tables,1053.000000,Avg
+B-25930,2023-01-03,Chapman,Illinois,MW,Tuesday,151,5,24,EFT,Clothing,Hat,635.000000,Low
+B-25930,2023-01-03,Chapman,Illinois,MW,Tuesday,202,9,13,EFT,Clothing,T - shirt,1701.000000,Avg
+B-25930,2023-01-03,Chapman,Illinois,MW,Tuesday,351,5,89,Credit Card,Electronics,Electronic Games,1310.000000,Avg
+B-25930,2023-01-03,Chapman,Illinois,MW,Tuesday,40,3,9,Credit Card,Clothing,T - shirt,93.000000,Low
+B-25930,2023-01-03,Chapman,Illinois,MW,Tuesday,58,2,21,Credit Card,Clothing,Hat,74.000000,Low
+B-25930,2023-01-03,Chapman,Illinois,MW,Tuesday,595,4,119,Credit Card,Furniture,Bookcases,1904.000000,Avg
+B-25840,2023-10-31,Bates,Michigan,MW,Tuesday,246,2,93,COD,Furniture,Bookcases,306.000000,Low
+B-25840,2023-10-31,Bates,Michigan,MW,Tuesday,262,6,33,EFT,Clothing,Dress,1374.000000,Avg
+B-25840,2023-10-31,Bates,Michigan,MW,Tuesday,298,2,112,Credit Card,Furniture,Bookcases,372.000000,Low
+B-25804,2023-10-05,Santiago,Michigan,MW,Thursday,156,5,24,EFT,Clothing,T - shirt,660.000000,Low
+B-25804,2023-10-05,Santiago,Michigan,MW,Thursday,321,3,98,Debit Card,Electronics,Printers,669.000000,Low
+B-26022,2023-02-18,Nelson,Illinois,MW,Saturday,1824,8,65,COD,Electronics,Phones,14072.000000,High
+B-25698,2023-06-23,Bryant,Wisconsin,MW,Friday,207,3,18,COD,Clothing,Dress,567.000000,Low
+B-25698,2023-06-23,Bryant,Wisconsin,MW,Friday,27,4,8,Credit Card,Clothing,Hat,76.000000,Low
+B-25698,2023-06-23,Bryant,Wisconsin,MW,Friday,516,8,16,Credit Card,Furniture,Chairs,4000.000000,High
+B-25698,2023-06-23,Bryant,Wisconsin,MW,Friday,65,2,41,Debit Card,Electronics,Phones,48.000000,Low
+B-25698,2023-06-23,Bryant,Wisconsin,MW,Friday,7,1,9,Credit Card,Clothing,Hat,-2.000000,Loss
+B-25698,2023-06-23,Bryant,Wisconsin,MW,Friday,87,5,34,Credit Card,Clothing,Shirt,265.000000,Low
+B-25660,2023-05-16,Garcia,Michigan,MW,Tuesday,245,3,108,Credit Card,Clothing,Dress,411.000000,Low
+B-25807,2023-10-07,Steele,Ohio,MW,Saturday,16,1,10,Credit Card,Clothing,Scarf,6.000000,Low
+B-25894,2023-12-04,Lawrence,Illinois,MW,Monday,1246,3,395,EFT,Furniture,Bookcases,2553.000000,High
+B-25927,2023-12-31,Smith,Ohio,MW,Sunday,200,4,48,COD,Electronics,Electronic Games,608.000000,Low
+B-25861,2023-11-15,Gonzales,Ohio,MW,Wednesday,128,3,41,Credit Card,Clothing,Dress,261.000000,Low
+B-25861,2023-11-15,Gonzales,Ohio,MW,Wednesday,216,3,100,Credit Card,Electronics,Electronic Games,348.000000,Low
+B-25861,2023-11-15,Gonzales,Ohio,MW,Wednesday,44,3,10,Debit Card,Clothing,Hat,102.000000,Low
+B-25861,2023-11-15,Gonzales,Ohio,MW,Wednesday,50,2,24,EFT,Clothing,Scarf,52.000000,Low
+B-25861,2023-11-15,Gonzales,Ohio,MW,Wednesday,56,2,19,EFT,Clothing,Hat,74.000000,Low
+B-25861,2023-11-15,Gonzales,Ohio,MW,Wednesday,62,5,11,Credit Card,Clothing,Hat,255.000000,Low
+B-25732,2023-07-27,Kennedy,Michigan,MW,Thursday,16,2,11,EFT,Clothing,Scarf,10.000000,Low
+B-25788,2023-09-21,Rose,Wisconsin,MW,Thursday,12,1,9,EFT,Clothing,Scarf,3.000000,Low
+B-25609,2023-04-09,Perez,Ohio,MW,Sunday,249,4,64,Credit Card,Clothing,Dress,740.000000,Low
+B-25609,2023-04-09,Perez,Ohio,MW,Sunday,485,4,114,Credit Card,Electronics,Electronic Games,1484.000000,Avg
+B-25678,2023-06-03,Shaw,Michigan,MW,Saturday,27,2,26,Debit Card,Clothing,Shirt,2.000000,Low
+B-25678,2023-06-03,Shaw,Michigan,MW,Saturday,327,1,366,Credit Card,Electronics,Phones,-39.000000,Loss
+B-25678,2023-06-03,Shaw,Michigan,MW,Saturday,64,3,24,Credit Card,Clothing,Dress,120.000000,Low
+B-25678,2023-06-03,Shaw,Michigan,MW,Saturday,7,2,5,EFT,Clothing,Skirt,4.000000,Low
+B-26098,2023-03-29,King,Missouri,MW,Wednesday,409,3,108,Credit Card,Clothing,Dress,903.000000,Low
+B-26098,2023-03-29,King,Missouri,MW,Wednesday,46,5,6,Credit Card,Clothing,Skirt,200.000000,Low
+B-26098,2023-03-29,King,Missouri,MW,Wednesday,497,3,106,Debit Card,Furniture,Chairs,1173.000000,Avg
+B-26098,2023-03-29,King,Missouri,MW,Wednesday,59,2,22,EFT,Clothing,T - shirt,74.000000,Low
+B-26098,2023-03-29,King,Missouri,MW,Wednesday,82,3,25,EFT,Electronics,Accessories,171.000000,Low
+B-26098,2023-03-29,King,Missouri,MW,Wednesday,96,5,29,EFT,Clothing,Leggings,335.000000,Low
+B-25846,2023-11-03,Ortega,Illinois,MW,Friday,94,7,12,EFT,Clothing,Leggings,574.000000,Low
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,14,1,9,EFT,Clothing,Hat,5.000000,Low
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,185,6,35,Credit Card,Furniture,Chairs,900.000000,Low
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,19,2,6,COD,Clothing,Hat,26.000000,Low
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,39,2,29,COD,Clothing,Leggings,20.000000,Low
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,663,5,175,EFT,Electronics,Printers,2440.000000,High
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,671,5,196,Credit Card,Electronics,Electronic Games,2375.000000,High
+B-26097,2023-03-28,Roberts,Michigan,MW,Tuesday,97,2,43,EFT,Clothing,Hat,108.000000,Low
+B-25761,2023-08-25,Bailey,Ohio,MW,Friday,102,1,192,Credit Card,Clothing,Dress,-90.000000,Loss
+B-25761,2023-08-25,Bailey,Ohio,MW,Friday,2188,5,228,COD,Furniture,Bookcases,9800.000000,High
+B-25761,2023-08-25,Bailey,Ohio,MW,Friday,263,9,33,Debit Card,Electronics,Electronic Games,2070.000000,High
+B-25761,2023-08-25,Bailey,Ohio,MW,Friday,328,3,114,Debit Card,Electronics,Electronic Games,642.000000,Low
+B-25761,2023-08-25,Bailey,Ohio,MW,Friday,40,3,13,COD,Clothing,Dress,81.000000,Low
+B-25761,2023-08-25,Bailey,Ohio,MW,Friday,418,7,50,Credit Card,Electronics,Phones,2576.000000,High
+B-25975,2023-01-25,Jones,Ohio,MW,Wednesday,29,3,9,Credit Card,Clothing,Skirt,60.000000,Low
+B-25668,2023-05-24,Price,Indiana,MW,Wednesday,123,3,35,Credit Card,Furniture,Furnishings,264.000000,Low
+B-25938,2023-01-05,Russell,Indiana,MW,Thursday,59,3,11,Credit Card,Clothing,Scarf,144.000000,Low
+B-25938,2023-01-05,Russell,Indiana,MW,Thursday,61,2,30,Credit Card,Furniture,Furnishings,62.000000,Low
+B-25881,2023-11-25,Andrews,Ohio,MW,Saturday,1351,6,207,Credit Card,Electronics,Electronic Games,6864.000000,High
+B-25881,2023-11-25,Andrews,Ohio,MW,Saturday,2115,5,418,Credit Card,Furniture,Chairs,8485.000000,High
+B-25881,2023-11-25,Andrews,Ohio,MW,Saturday,2244,4,499,COD,Clothing,Pants,6980.000000,High
+B-25881,2023-11-25,Andrews,Ohio,MW,Saturday,26,2,9,Credit Card,Clothing,Leggings,34.000000,Low
+B-25881,2023-11-25,Andrews,Ohio,MW,Saturday,36,3,10,Debit Card,Clothing,Leggings,78.000000,Low
+B-25881,2023-11-25,Andrews,Ohio,MW,Saturday,37,3,11,Credit Card,Clothing,Hat,78.000000,Low
+B-25936,2023-01-05,Morrison,Illinois,MW,Thursday,61,4,9,EFT,Clothing,Dress,208.000000,Low
+B-25608,2023-04-08,Wilson,Wisconsin,MW,Saturday,1364,5,-100,COD,Furniture,Tables,7320.000000,High
+B-25608,2023-04-08,Wilson,Wisconsin,MW,Saturday,257,5,47,Credit Card,Clothing,Hat,1050.000000,Avg
+B-25608,2023-04-08,Wilson,Wisconsin,MW,Saturday,476,3,159,Credit Card,Furniture,Chairs,951.000000,Low
+B-25608,2023-04-08,Wilson,Wisconsin,MW,Saturday,856,6,79,Credit Card,Electronics,Printers,4662.000000,High
+B-25630,2023-04-24,Long,Illinois,MW,Monday,114,5,31,Credit Card,Clothing,Shirt,415.000000,Low
+B-25630,2023-04-24,Long,Illinois,MW,Monday,133,5,24,Debit Card,Clothing,Scarf,545.000000,Low
+B-25630,2023-04-24,Long,Illinois,MW,Monday,143,2,136,Credit Card,Electronics,Phones,14.000000,Low
+B-25630,2023-04-24,Long,Illinois,MW,Monday,34,4,14,Credit Card,Clothing,T - shirt,80.000000,Low
+B-25630,2023-04-24,Long,Illinois,MW,Monday,40,3,16,Credit Card,Clothing,Scarf,72.000000,Low
+B-25630,2023-04-24,Long,Illinois,MW,Monday,42,2,34,Credit Card,Clothing,Shirt,16.000000,Low
+B-25789,2023-09-22,Thomas,Ohio,MW,Friday,30,1,30,Credit Card,Clothing,Shirt,0.000000,Loss
+B-25789,2023-09-22,Thomas,Ohio,MW,Friday,313,5,65,EFT,Furniture,Bookcases,1240.000000,Avg
+B-25789,2023-09-22,Thomas,Ohio,MW,Friday,67,9,17,Credit Card,Furniture,Furnishings,450.000000,Low
+B-25715,2023-07-10,Estrada,Missouri,MW,Monday,416,3,93,Debit Card,Electronics,Phones,969.000000,Low
+B-25899,2023-12-08,Wallace,Ohio,MW,Friday,22,2,7,Debit Card,Clothing,Leggings,30.000000,Low
+B-25899,2023-12-08,Wallace,Ohio,MW,Friday,28,4,6,Credit Card,Clothing,Skirt,88.000000,Low
+B-25899,2023-12-08,Wallace,Ohio,MW,Friday,43,1,26,Credit Card,Clothing,Dress,17.000000,Low
+B-25899,2023-12-08,Wallace,Ohio,MW,Friday,846,2,419,Debit Card,Furniture,Chairs,854.000000,Low
+B-25822,2023-10-18,Sutton,Michigan,MW,Wednesday,34,2,11,Credit Card,Clothing,Dress,46.000000,Low
+B-25648,2023-05-04,Anderson,Illinois,MW,Thursday,100,1,123,Credit Card,Electronics,Phones,-23.000000,Loss
+B-25648,2023-05-04,Anderson,Illinois,MW,Thursday,130,4,43,EFT,Clothing,Dress,348.000000,Low
+B-25648,2023-05-04,Anderson,Illinois,MW,Thursday,30,1,17,EFT,Clothing,T - shirt,13.000000,Low
+B-25648,2023-05-04,Anderson,Illinois,MW,Thursday,55,4,20,EFT,Clothing,Dress,140.000000,Low
+B-25768,2023-09-01,Sandoval,Michigan,MW,Friday,1582,6,338,EFT,Clothing,Pants,7464.000000,High
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,120,1,119,Credit Card,Furniture,Chairs,1.000000,Low
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,162,3,36,Credit Card,Clothing,Scarf,378.000000,Low
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,17,2,8,COD,Clothing,Skirt,18.000000,Low
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,246,2,93,Credit Card,Furniture,Bookcases,306.000000,Low
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,27,3,7,Credit Card,Clothing,Skirt,60.000000,Low
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,425,7,31,Debit Card,Clothing,Dress,2758.000000,High
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,594,3,168,Credit Card,Furniture,Bookcases,1278.000000,Avg
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,85,6,14,Credit Card,Clothing,Scarf,426.000000,Low
+B-26053,2023-03-09,Rogers,Missouri,MW,Thursday,93,3,21,EFT,Electronics,Accessories,216.000000,Low
+B-25632,2023-04-25,Bell,Indiana,MW,Tuesday,19,2,11,Debit Card,Clothing,Leggings,16.000000,Low
+B-25924,2023-12-28,Weber,Michigan,MW,Thursday,148,2,47,EFT,Furniture,Chairs,202.000000,Low
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,114,3,35,Debit Card,Electronics,Accessories,237.000000,Low
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,115,3,51,Credit Card,Clothing,Pants,192.000000,Low
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,1300,8,165,COD,Electronics,Printers,9080.000000,High
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,322,5,26,Credit Card,Electronics,Printers,1480.000000,Avg
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,4,1,7,COD,Clothing,Skirt,-3.000000,Loss
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,67,3,36,Credit Card,Clothing,Scarf,93.000000,Low
+B-25697,2023-06-22,Vazquez,Missouri,MW,Thursday,73,1,80,Credit Card,Electronics,Phones,-7.000000,Loss
+B-25848,2023-11-03,Miller,Indiana,MW,Friday,147,3,42,Debit Card,Furniture,Furnishings,315.000000,Low
+B-25848,2023-11-03,Miller,Indiana,MW,Friday,16,2,4,Credit Card,Clothing,Hat,24.000000,Low
+B-25848,2023-11-03,Miller,Indiana,MW,Friday,648,6,100,COD,Electronics,Electronic Games,3288.000000,High
+B-25722,2023-07-17,Arnold,Indiana,MW,Monday,48,8,7,Credit Card,Clothing,Scarf,328.000000,Low
+B-25699,2023-06-24,Duncan,Ohio,MW,Saturday,20,1,42,EFT,Furniture,Furnishings,-22.000000,Loss
+B-25699,2023-06-24,Duncan,Ohio,MW,Saturday,21,1,26,Credit Card,Electronics,Accessories,-5.000000,Loss
+B-25699,2023-06-24,Duncan,Ohio,MW,Saturday,34,5,9,Credit Card,Clothing,Leggings,125.000000,Low
+B-25699,2023-06-24,Duncan,Ohio,MW,Saturday,49,2,40,EFT,Clothing,Scarf,18.000000,Low
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,149,3,45,EFT,Clothing,Dress,312.000000,Low
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,223,7,23,Credit Card,Clothing,Shirt,1400.000000,Avg
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,355,7,67,COD,Clothing,Scarf,2016.000000,High
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,372,3,104,EFT,Electronics,Printers,804.000000,Low
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,61,3,17,Credit Card,Clothing,Shirt,132.000000,Low
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,688,6,132,Debit Card,Electronics,Accessories,3336.000000,High
+B-25893,2023-12-04,Hamilton,Ohio,MW,Monday,83,3,24,EFT,Clothing,Scarf,177.000000,Low
+B-25624,2023-04-22,Roberts,Michigan,MW,Saturday,26,3,5,Credit Card,Clothing,Hat,63.000000,Low
+B-25643,2023-04-29,Rogers,Missouri,MW,Saturday,1061,8,137,EFT,Furniture,Bookcases,7392.000000,High
+B-25643,2023-04-29,Rogers,Missouri,MW,Saturday,263,2,163,Debit Card,Electronics,Electronic Games,200.000000,Low
+B-25643,2023-04-29,Rogers,Missouri,MW,Saturday,36,1,43,Credit Card,Electronics,Electronic Games,-7.000000,Loss
+B-25643,2023-04-29,Rogers,Missouri,MW,Saturday,37,4,15,EFT,Clothing,Shirt,88.000000,Low
+B-25643,2023-04-29,Rogers,Missouri,MW,Saturday,50,2,47,EFT,Clothing,Hat,6.000000,Low
+B-25787,2023-09-20,Crawford,Missouri,MW,Wednesday,140,4,50,Credit Card,Furniture,Furnishings,360.000000,Low
+B-25787,2023-09-20,Crawford,Missouri,MW,Wednesday,229,8,34,Credit Card,Electronics,Accessories,1560.000000,Avg
+B-25787,2023-09-20,Crawford,Missouri,MW,Wednesday,40,3,17,Credit Card,Clothing,Shirt,69.000000,Low
+B-25787,2023-09-20,Crawford,Missouri,MW,Wednesday,556,7,109,Credit Card,Clothing,Dress,3129.000000,High
+B-25771,2023-09-02,Vaughn,Ohio,MW,Saturday,148,3,30,Credit Card,Clothing,Hat,354.000000,Low
+B-25860,2023-11-15,Thomas,Wisconsin,MW,Wednesday,112,3,29,Credit Card,Clothing,Shirt,249.000000,Low
+B-25810,2023-10-10,Bishop,Illinois,MW,Tuesday,1120,6,154,EFT,Clothing,Dress,5796.000000,High
+B-25810,2023-10-10,Bishop,Illinois,MW,Tuesday,26,4,4,EFT,Clothing,Hat,88.000000,Low
+B-25810,2023-10-10,Bishop,Illinois,MW,Tuesday,29,5,4,EFT,Clothing,Hat,125.000000,Low
+B-25810,2023-10-10,Bishop,Illinois,MW,Tuesday,307,3,78,EFT,Electronics,Accessories,687.000000,Low
+B-25810,2023-10-10,Bishop,Illinois,MW,Tuesday,45,3,13,Credit Card,Clothing,Shirt,96.000000,Low
+B-25810,2023-10-10,Bishop,Illinois,MW,Tuesday,92,2,25,Credit Card,Clothing,Scarf,134.000000,Low
+B-26058,2023-03-11,Anderson,Illinois,MW,Saturday,212,7,16,Credit Card,Clothing,Hat,1372.000000,Avg
+B-25716,2023-07-11,Campbell,Wisconsin,MW,Tuesday,58,4,15,EFT,Clothing,Dress,172.000000,Low
+B-25686,2023-06-11,Brown,Indiana,MW,Sunday,1829,6,314,COD,Furniture,Tables,9090.000000,High
+B-25686,2023-06-11,Brown,Indiana,MW,Sunday,332,3,-57,Credit Card,Electronics,Printers,1167.000000,Avg
+B-25686,2023-06-11,Brown,Indiana,MW,Sunday,381,2,197,Credit Card,Clothing,Dress,368.000000,Low
+B-25720,2023-07-15,George,Illinois,MW,Saturday,30,1,65,Credit Card,Furniture,Chairs,-35.000000,Loss
+B-26034,2023-02-23,Roberts,Michigan,MW,Thursday,425,5,48,EFT,Electronics,Accessories,1885.000000,Avg
+B-25714,2023-07-09,Contreras,Michigan,MW,Sunday,11,2,8,Credit Card,Clothing,Hat,6.000000,Low
+B-25714,2023-07-09,Contreras,Michigan,MW,Sunday,340,7,46,COD,Clothing,Shirt,2058.000000,High
+B-25876,2023-11-24,Romero,Illinois,MW,Friday,282,4,67,Debit Card,Clothing,Pants,860.000000,Low
+B-26009,2023-02-10,Morgan,Ohio,MW,Friday,195,9,20,COD,Clothing,Shirt,1575.000000,Avg
+B-26009,2023-02-10,Morgan,Ohio,MW,Friday,285,2,79,Credit Card,Electronics,Printers,412.000000,Low
+B-25696,2023-06-21,Franklin,Michigan,MW,Wednesday,116,1,120,Credit Card,Clothing,Dress,-4.000000,Loss
+B-25696,2023-06-21,Franklin,Michigan,MW,Wednesday,117,3,41,Credit Card,Electronics,Phones,228.000000,Low
+B-25696,2023-06-21,Franklin,Michigan,MW,Wednesday,168,3,59,Credit Card,Clothing,Dress,327.000000,Low
+B-25696,2023-06-21,Franklin,Michigan,MW,Wednesday,275,4,138,Credit Card,Clothing,Dress,548.000000,Low
+B-25696,2023-06-21,Franklin,Michigan,MW,Wednesday,44,3,-18,Debit Card,Clothing,Shirt,186.000000,Low
+B-25696,2023-06-21,Franklin,Michigan,MW,Wednesday,887,3,269,EFT,Electronics,Printers,1854.000000,Avg
+B-25606,2023-04-06,Lewis,Michigan,MW,Thursday,87,2,42,Credit Card,Clothing,Shirt,90.000000,Low
+B-25717,2023-07-12,Aguilar,Ohio,MW,Wednesday,138,5,28,Credit Card,Clothing,Dress,550.000000,Low
+B-25717,2023-07-12,Aguilar,Ohio,MW,Wednesday,55,2,44,Credit Card,Furniture,Chairs,22.000000,Low
+B-25717,2023-07-12,Aguilar,Ohio,MW,Wednesday,561,3,116,COD,Clothing,Dress,1335.000000,Avg
+B-25717,2023-07-12,Aguilar,Ohio,MW,Wednesday,90,3,24,Credit Card,Clothing,Shirt,198.000000,Low
+B-26070,2023-03-18,Garcia,Michigan,MW,Saturday,14,2,4,EFT,Clothing,Hat,20.000000,Low
+B-26070,2023-03-18,Garcia,Michigan,MW,Saturday,54,4,11,Credit Card,Clothing,Shirt,172.000000,Low
+B-26070,2023-03-18,Garcia,Michigan,MW,Saturday,582,5,64,Credit Card,Furniture,Furnishings,2590.000000,High
+B-26070,2023-03-18,Garcia,Michigan,MW,Saturday,75,1,46,EFT,Clothing,Pants,29.000000,Low
+B-26035,2023-02-23,King,Missouri,MW,Thursday,291,11,16,Credit Card,Clothing,Dress,3025.000000,High
+B-26035,2023-02-23,King,Missouri,MW,Thursday,369,3,118,Debit Card,Electronics,Electronic Games,753.000000,Low
+B-26035,2023-02-23,King,Missouri,MW,Thursday,520,3,123,COD,Electronics,Phones,1191.000000,Avg
+B-25758,2023-08-22,Johnson,Indiana,MW,Tuesday,8,1,10,Credit Card,Clothing,Scarf,-2.000000,Loss
+B-26018,2023-02-14,Wilson,Wisconsin,MW,Tuesday,326,3,73,EFT,Furniture,Furnishings,759.000000,Low
+B-26018,2023-02-14,Wilson,Wisconsin,MW,Tuesday,61,4,13,Debit Card,Clothing,Hat,192.000000,Low
+B-26071,2023-03-19,Fisher,Missouri,MW,Sunday,21,3,6,COD,Clothing,Hat,45.000000,Low
+B-25900,2023-12-09,Torres,Illinois,MW,Saturday,140,5,14,Credit Card,Clothing,T - shirt,630.000000,Low
+B-25900,2023-12-09,Torres,Illinois,MW,Saturday,15,1,13,Debit Card,Clothing,Leggings,2.000000,Low
+B-25900,2023-12-09,Torres,Illinois,MW,Saturday,210,2,74,Credit Card,Electronics,Phones,272.000000,Low
+B-25976,2023-01-25,Dean,Illinois,MW,Wednesday,193,4,46,EFT,Clothing,T - shirt,588.000000,Low
+B-25666,2023-05-22,Fleming,Illinois,MW,Monday,934,7,264,Credit Card,Electronics,Electronic Games,4690.000000,High
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,101,4,21,Credit Card,Clothing,T - shirt,320.000000,Low
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,145,3,48,EFT,Clothing,Dress,291.000000,Low
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,148,4,31,EFT,Clothing,Shirt,468.000000,Low
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,15,1,14,Credit Card,Clothing,Shirt,1.000000,Low
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,25,2,9,Credit Card,Clothing,Scarf,32.000000,Low
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,774,3,201,Credit Card,Electronics,Accessories,1719.000000,Avg
+B-26052,2023-03-08,Taylor,Michigan,MW,Wednesday,78,6,18,EFT,Clothing,Shirt,360.000000,Low
+B-26087,2023-03-26,Mitchell,Indiana,MW,Sunday,119,7,9,EFT,Clothing,Dress,770.000000,Low
+B-26087,2023-03-26,Mitchell,Indiana,MW,Sunday,180,8,23,Credit Card,Clothing,Scarf,1256.000000,Avg
+B-26087,2023-03-26,Mitchell,Indiana,MW,Sunday,311,1,271,EFT,Electronics,Electronic Games,40.000000,Low
+B-26087,2023-03-26,Mitchell,Indiana,MW,Sunday,40,2,15,Credit Card,Clothing,Scarf,50.000000,Low
+B-26087,2023-03-26,Mitchell,Indiana,MW,Sunday,46,3,11,Credit Card,Clothing,Hat,105.000000,Low
+B-26085,2023-03-26,Nelson,Illinois,MW,Sunday,132,3,47,Credit Card,Clothing,Dress,255.000000,Low
+B-26085,2023-03-26,Nelson,Illinois,MW,Sunday,1487,3,288,COD,Clothing,Pants,3597.000000,High
+B-26085,2023-03-26,Nelson,Illinois,MW,Sunday,40,2,12,Credit Card,Clothing,Scarf,56.000000,Low
+B-26085,2023-03-26,Nelson,Illinois,MW,Sunday,86,2,32,Credit Card,Clothing,Dress,108.000000,Low
+B-25735,2023-07-30,Olson,Ohio,MW,Sunday,12,3,5,Credit Card,Clothing,Hat,21.000000,Low
+B-25735,2023-07-30,Olson,Ohio,MW,Sunday,15,1,22,EFT,Clothing,Hat,-7.000000,Loss
+B-25735,2023-07-30,Olson,Ohio,MW,Sunday,7,2,4,EFT,Clothing,Skirt,6.000000,Low
+B-26017,2023-02-14,Ramirez,Missouri,MW,Tuesday,78,1,71,Credit Card,Furniture,Chairs,7.000000,Low
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,1218,8,205,Credit Card,Furniture,Bookcases,8104.000000,High
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,1250,2,631,EFT,Electronics,Printers,1238.000000,Avg
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,213,14,15,Credit Card,Clothing,Shirt,2772.000000,High
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,227,5,36,Credit Card,Clothing,Scarf,955.000000,Low
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,443,1,432,Credit Card,Clothing,Dress,11.000000,Low
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,57,2,25,EFT,Clothing,Shirt,64.000000,Low
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,5729,14,405,EFT,Furniture,Chairs,74536.000000,High
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,671,9,62,COD,Electronics,Phones,5481.000000,High
+B-26055,2023-03-10,Gardner,Ohio,MW,Friday,94,2,34,Credit Card,Clothing,T - shirt,120.000000,Low
+B-26024,2023-02-19,Mitchell,Indiana,MW,Sunday,168,6,25,Debit Card,Clothing,Scarf,858.000000,Low
+B-26079,2023-03-22,Lewis,Michigan,MW,Wednesday,18,2,8,Debit Card,Clothing,Hat,20.000000,Low
+B-26016,2023-02-14,Lewis,Michigan,MW,Tuesday,134,3,49,EFT,Electronics,Electronic Games,255.000000,Low
+B-26016,2023-02-14,Lewis,Michigan,MW,Tuesday,202,4,50,Credit Card,Clothing,Hat,608.000000,Low
+B-26016,2023-02-14,Lewis,Michigan,MW,Tuesday,429,3,123,COD,Electronics,Electronic Games,918.000000,Low
+B-26016,2023-02-14,Lewis,Michigan,MW,Tuesday,74,3,22,EFT,Clothing,Shirt,156.000000,Low
+B-25642,2023-04-28,Taylor,Michigan,MW,Friday,434,11,37,COD,Clothing,Shirt,4367.000000,High
+B-25920,2023-12-24,Grant,Ohio,MW,Sunday,100,2,47,EFT,Clothing,T - shirt,106.000000,Low
+B-26080,2023-03-22,Ramirez,Missouri,MW,Wednesday,109,6,12,Credit Card,Clothing,T - shirt,582.000000,Low
+B-25661,2023-05-17,Fisher,Missouri,MW,Wednesday,145,5,50,EFT,Furniture,Chairs,475.000000,Low
+B-25661,2023-05-17,Fisher,Missouri,MW,Wednesday,19,3,11,COD,Clothing,Hat,24.000000,Low
+B-25661,2023-05-17,Fisher,Missouri,MW,Wednesday,224,3,102,Credit Card,Furniture,Chairs,366.000000,Low
+B-25661,2023-05-17,Fisher,Missouri,MW,Wednesday,55,2,44,Debit Card,Furniture,Chairs,22.000000,Low
+B-25661,2023-05-17,Fisher,Missouri,MW,Wednesday,58,2,50,Debit Card,Furniture,Chairs,16.000000,Low
+B-25661,2023-05-17,Fisher,Missouri,MW,Wednesday,7,2,4,COD,Clothing,Hat,6.000000,Low
+B-26082,2023-03-23,Perez,Ohio,MW,Thursday,95,2,45,EFT,Clothing,Scarf,100.000000,Low
+B-25738,2023-08-02,Thompson,Illinois,MW,Wednesday,1069,6,178,EFT,Clothing,Dress,5346.000000,High
+B-25738,2023-08-02,Thompson,Illinois,MW,Wednesday,148,2,120,Credit Card,Electronics,Phones,56.000000,Low
+B-25738,2023-08-02,Thompson,Illinois,MW,Wednesday,70,2,42,EFT,Furniture,Furnishings,56.000000,Low
+B-25738,2023-08-02,Thompson,Illinois,MW,Wednesday,72,3,26,EFT,Clothing,Dress,138.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,107,5,15,Credit Card,Clothing,T - shirt,460.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,154,7,19,Credit Card,Clothing,T - shirt,945.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,27,2,24,Credit Card,Clothing,Hat,6.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,341,6,71,COD,Clothing,Pants,1620.000000,Avg
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,47,5,32,Credit Card,Furniture,Furnishings,75.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,62,5,24,Credit Card,Clothing,Shirt,190.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,620,6,90,Credit Card,Electronics,Accessories,3180.000000,High
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,65,3,39,Credit Card,Electronics,Accessories,78.000000,Low
+B-25753,2023-08-17,Ortiz,Ohio,MW,Thursday,77,8,15,Credit Card,Clothing,Scarf,496.000000,Low

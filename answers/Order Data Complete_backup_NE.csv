@@ -1,0 +1,336 @@
+Order ID,Order Date,CustomerName,State,Region,DOW,Sale Price,Quantity,Cost per Item,PaymentMode,Category,Sub-Category,Profit,Profitability
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,174,3,81,Credit Card,Electronics,Accessories,279.000000,Low
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,206,3,137,Credit Card,Clothing,Dress,207.000000,Low
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,21,3,11,EFT,Clothing,Leggings,30.000000,Low
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,24,7,6,Credit Card,Clothing,Skirt,126.000000,Low
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,25,5,5,EFT,Clothing,Hat,100.000000,Low
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,34,4,10,Credit Card,Clothing,Leggings,96.000000,Low
+B-25652,2023-05-08,Jordan,Massachusetts,NE,Monday,9,2,8,Credit Card,Clothing,Hat,2.000000,Low
+B-26014,2023-02-13,Harris,New York,NE,Monday,278,5,48,Debit Card,Furniture,Chairs,1150.000000,Avg
+B-26014,2023-02-13,Harris,New York,NE,Monday,406,7,44,COD,Furniture,Chairs,2534.000000,High
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,134,2,84,Credit Card,Furniture,Chairs,100.000000,Low
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,1709,3,382,COD,Clothing,Pants,3981.000000,High
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,257,2,130,EFT,Furniture,Bookcases,254.000000,Low
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,26,2,11,EFT,Clothing,Dress,30.000000,Low
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,321,5,1,EFT,Clothing,Dress,1600.000000,Avg
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,37,3,30,COD,Clothing,Dress,21.000000,Low
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,47,2,25,EFT,Clothing,Scarf,44.000000,Low
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,593,4,95,Debit Card,Furniture,Bookcases,1992.000000,Avg
+B-25755,2023-08-19,Douglas,Virginia,NE,Saturday,80,5,20,EFT,Clothing,Scarf,300.000000,Low
+B-25784,2023-09-15,Walsh,New York,NE,Friday,15,1,11,Debit Card,Clothing,Hat,4.000000,Low
+B-25665,2023-05-21,Robertson,Virginia,NE,Sunday,166,4,70,EFT,Electronics,Accessories,384.000000,Low
+B-26050,2023-03-06,Watson,New York,NE,Monday,166,2,70,EFT,Electronics,Accessories,192.000000,Low
+B-26050,2023-03-06,Watson,New York,NE,Monday,169,4,29,Debit Card,Clothing,Dress,560.000000,Low
+B-26050,2023-03-06,Watson,New York,NE,Monday,284,6,40,Credit Card,Clothing,Hat,1464.000000,Avg
+B-26050,2023-03-06,Watson,New York,NE,Monday,32,3,9,EFT,Clothing,Shirt,69.000000,Low
+B-26050,2023-03-06,Watson,New York,NE,Monday,325,7,42,Credit Card,Clothing,T - shirt,1981.000000,Avg
+B-26050,2023-03-06,Watson,New York,NE,Monday,38,2,15,Credit Card,Clothing,Scarf,46.000000,Low
+B-26050,2023-03-06,Watson,New York,NE,Monday,382,2,145,Credit Card,Electronics,Printers,474.000000,Low
+B-26050,2023-03-06,Watson,New York,NE,Monday,487,4,86,EFT,Electronics,Phones,1604.000000,Avg
+B-26050,2023-03-06,Watson,New York,NE,Monday,79,3,16,Debit Card,Clothing,Dress,189.000000,Low
+B-25867,2023-11-17,Martin,Maryland,NE,Friday,163,4,34,Credit Card,Clothing,Shirt,516.000000,Low
+B-25867,2023-11-17,Martin,Maryland,NE,Friday,240,6,38,EFT,Clothing,Shirt,1212.000000,Avg
+B-25867,2023-11-17,Martin,Maryland,NE,Friday,31,3,6,EFT,Clothing,Scarf,75.000000,Low
+B-25998,2023-02-04,Ruiz,New York,NE,Saturday,50,5,16,Credit Card,Furniture,Furnishings,170.000000,Low
+B-26095,2023-03-28,Wright,New York,NE,Tuesday,6,1,5,EFT,Clothing,Shirt,1.000000,Low
+B-26021,2023-02-17,Hernandez,Virginia,NE,Friday,122,7,9,Credit Card,Furniture,Furnishings,791.000000,Low
+B-26021,2023-02-17,Hernandez,Virginia,NE,Friday,21,3,11,Debit Card,Clothing,Hat,30.000000,Low
+B-26021,2023-02-17,Hernandez,Virginia,NE,Friday,49,1,28,EFT,Clothing,Scarf,21.000000,Low
+B-25611,2023-04-11,Hernandez,Virginia,NE,Tuesday,160,2,110,EFT,Clothing,Dress,100.000000,Low
+B-25943,2023-01-09,Pearson,Pennsylvania,NE,Monday,137,5,20,Debit Card,Clothing,Hat,585.000000,Low
+B-25943,2023-01-09,Pearson,Pennsylvania,NE,Monday,149,3,45,Debit Card,Clothing,Dress,312.000000,Low
+B-25943,2023-01-09,Pearson,Pennsylvania,NE,Monday,1547,6,201,EFT,Electronics,Accessories,8076.000000,High
+B-25943,2023-01-09,Pearson,Pennsylvania,NE,Monday,26,4,5,Credit Card,Clothing,Hat,84.000000,Low
+B-25943,2023-01-09,Pearson,Pennsylvania,NE,Monday,48,4,7,EFT,Clothing,Scarf,164.000000,Low
+B-25799,2023-10-01,Moreno,Pennsylvania,NE,Sunday,205,3,108,Debit Card,Clothing,Dress,291.000000,Low
+B-25799,2023-10-01,Moreno,Pennsylvania,NE,Sunday,45,2,30,Credit Card,Furniture,Chairs,30.000000,Low
+B-25799,2023-10-01,Moreno,Pennsylvania,NE,Sunday,47,4,19,EFT,Clothing,Dress,112.000000,Low
+B-25799,2023-10-01,Moreno,Pennsylvania,NE,Sunday,70,5,27,EFT,Clothing,Scarf,215.000000,Low
+B-25849,2023-11-04,Hart,Maryland,NE,Saturday,336,3,71,EFT,Electronics,Phones,795.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,128,3,41,Credit Card,Clothing,Dress,261.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,199,4,38,EFT,Clothing,Scarf,644.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,199,2,97,EFT,Clothing,Dress,204.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,2093,5,274,COD,Furniture,Chairs,9095.000000,High
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,26,2,8,EFT,Clothing,Hat,36.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,30,3,5,EFT,Clothing,Hat,75.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,39,6,4,EFT,Clothing,Skirt,210.000000,Low
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,579,3,147,Debit Card,Electronics,Printers,1296.000000,Avg
+B-25853,2023-11-08,Nguyen,Pennsylvania,NE,Wednesday,95,4,21,Credit Card,Furniture,Furnishings,296.000000,Low
+B-25745,2023-08-09,Cook,Pennsylvania,NE,Wednesday,132,5,42,Credit Card,Furniture,Furnishings,450.000000,Low
+B-25745,2023-08-09,Cook,Pennsylvania,NE,Wednesday,296,11,6,Credit Card,Clothing,Dress,3190.000000,High
+B-25745,2023-08-09,Cook,Pennsylvania,NE,Wednesday,44,3,17,COD,Clothing,Scarf,81.000000,Low
+B-25745,2023-08-09,Cook,Pennsylvania,NE,Wednesday,670,5,131,Debit Card,Furniture,Bookcases,2695.000000,High
+B-25947,2023-01-13,Black,Pennsylvania,NE,Friday,207,2,87,EFT,Electronics,Accessories,240.000000,Low
+B-25947,2023-01-13,Black,Pennsylvania,NE,Friday,290,6,43,Credit Card,Clothing,Hat,1482.000000,Avg
+B-25883,2023-11-27,Lucas,Pennsylvania,NE,Monday,10,2,6,Credit Card,Clothing,Leggings,8.000000,Low
+B-25883,2023-11-27,Lucas,Pennsylvania,NE,Monday,105,8,16,COD,Clothing,Leggings,712.000000,Low
+B-25883,2023-11-27,Lucas,Pennsylvania,NE,Monday,127,3,33,Credit Card,Furniture,Furnishings,282.000000,Low
+B-25883,2023-11-27,Lucas,Pennsylvania,NE,Monday,146,5,21,EFT,Clothing,Hat,625.000000,Low
+B-25883,2023-11-27,Lucas,Pennsylvania,NE,Monday,16,4,8,EFT,Clothing,Hat,32.000000,Low
+B-25647,2023-05-03,Powell,Virginia,NE,Wednesday,42,4,12,EFT,Clothing,Dress,120.000000,Low
+B-25763,2023-08-27,Lynch,Pennsylvania,NE,Sunday,58,3,37,Credit Card,Furniture,Chairs,63.000000,Low
+B-25877,2023-11-24,Meyer,Pennsylvania,NE,Friday,1137,2,285,EFT,Clothing,Pants,1704.000000,Avg
+B-25877,2023-11-24,Meyer,Pennsylvania,NE,Friday,24,2,8,Debit Card,Clothing,Skirt,32.000000,Low
+B-25877,2023-11-24,Meyer,Pennsylvania,NE,Friday,269,5,47,Debit Card,Furniture,Chairs,1110.000000,Avg
+B-25610,2023-04-09,Rodriguez,New Jersey,NE,Sunday,107,4,40,EFT,Clothing,Scarf,268.000000,Low
+B-25610,2023-04-09,Rodriguez,New Jersey,NE,Sunday,1076,4,279,Credit Card,Electronics,Printers,3188.000000,High
+B-25610,2023-04-09,Rodriguez,New Jersey,NE,Sunday,30,2,18,Credit Card,Furniture,Furnishings,24.000000,Low
+B-25610,2023-04-09,Rodriguez,New Jersey,NE,Sunday,43,3,14,Debit Card,Clothing,Dress,87.000000,Low
+B-25610,2023-04-09,Rodriguez,New Jersey,NE,Sunday,68,5,25,EFT,Electronics,Accessories,215.000000,Low
+B-25610,2023-04-09,Rodriguez,New Jersey,NE,Sunday,781,6,31,Debit Card,Electronics,Printers,4500.000000,High
+B-26039,2023-02-25,Murphy,Virginia,NE,Saturday,83,5,10,Debit Card,Clothing,Shirt,365.000000,Low
+B-25977,2023-01-27,Martinez,Pennsylvania,NE,Friday,180,4,32,COD,Clothing,T - shirt,592.000000,Low
+B-25977,2023-01-27,Martinez,Pennsylvania,NE,Friday,27,1,26,EFT,Clothing,Scarf,1.000000,Low
+B-25977,2023-01-27,Martinez,Pennsylvania,NE,Friday,74,3,15,Credit Card,Clothing,Scarf,177.000000,Low
+B-25790,2023-09-23,Bowman,New Jersey,NE,Saturday,42,1,45,Credit Card,Electronics,Electronic Games,-3.000000,Loss
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,117,2,41,Debit Card,Clothing,Pants,152.000000,Low
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,148,3,41,Credit Card,Clothing,Scarf,321.000000,Low
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,24,4,6,Credit Card,Clothing,Hat,72.000000,Low
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,45,3,15,Debit Card,Clothing,T - shirt,90.000000,Low
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,485,4,72,EFT,Clothing,Dress,1652.000000,Avg
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,513,2,149,Credit Card,Electronics,Accessories,728.000000,Low
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,52,5,7,Debit Card,Clothing,Leggings,225.000000,Low
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,916,11,66,Credit Card,Electronics,Phones,9350.000000,High
+B-25850,2023-11-05,Williams,Massachusetts,NE,Sunday,93,2,47,Credit Card,Clothing,Hat,92.000000,Low
+B-26057,2023-03-10,Powell,Virginia,NE,Friday,224,3,46,Credit Card,Clothing,Pants,534.000000,Low
+B-26057,2023-03-10,Powell,Virginia,NE,Friday,54,4,12,Debit Card,Clothing,T - shirt,168.000000,Low
+B-26057,2023-03-10,Powell,Virginia,NE,Friday,659,2,348,COD,Furniture,Bookcases,622.000000,Low
+B-26057,2023-03-10,Powell,Virginia,NE,Friday,736,5,78,Credit Card,Electronics,Printers,3290.000000,High
+B-25616,2023-04-15,Hall,Massachusetts,NE,Saturday,116,5,34,COD,Clothing,Scarf,410.000000,Low
+B-25616,2023-04-15,Hall,Massachusetts,NE,Saturday,14,3,5,EFT,Clothing,Hat,27.000000,Low
+B-25616,2023-04-15,Hall,Massachusetts,NE,Saturday,22,3,8,Credit Card,Clothing,Hat,42.000000,Low
+B-25616,2023-04-15,Hall,Massachusetts,NE,Saturday,42,5,6,Credit Card,Clothing,Hat,180.000000,Low
+B-25929,2023-01-02,Fernandez,Virginia,NE,Monday,1308,3,257,COD,Furniture,Bookcases,3153.000000,High
+B-25929,2023-01-02,Fernandez,Virginia,NE,Monday,154,3,80,EFT,Furniture,Chairs,222.000000,Low
+B-25929,2023-01-02,Fernandez,Virginia,NE,Monday,216,3,117,COD,Furniture,Chairs,297.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,146,1,80,EFT,Electronics,Phones,66.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,148,1,139,EFT,Electronics,Electronic Games,9.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,189,4,32,Debit Card,Furniture,Furnishings,628.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,27,2,14,Credit Card,Clothing,Leggings,26.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,44,3,11,Credit Card,Clothing,Scarf,99.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,48,2,19,Credit Card,Clothing,Shirt,58.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,524,2,275,Debit Card,Electronics,Electronic Games,498.000000,Low
+B-25954,2023-01-14,Jennings,Pennsylvania,NE,Saturday,891,5,178,Credit Card,Clothing,Dress,3565.000000,High
+B-25669,2023-05-25,Howell,Maryland,NE,Thursday,610,2,338,Credit Card,Furniture,Tables,544.000000,Low
+B-25670,2023-05-25,Palmer,Massachusetts,NE,Thursday,14,1,12,Credit Card,Clothing,Hat,2.000000,Low
+B-25670,2023-05-25,Palmer,Massachusetts,NE,Thursday,24,2,12,EFT,Clothing,Hat,24.000000,Low
+B-25670,2023-05-25,Palmer,Massachusetts,NE,Thursday,656,2,346,COD,Furniture,Bookcases,620.000000,Low
+B-25670,2023-05-25,Palmer,Massachusetts,NE,Thursday,74,3,15,Credit Card,Clothing,Scarf,177.000000,Low
+B-25808,2023-10-08,Castillo,New Jersey,NE,Sunday,146,3,70,Debit Card,Electronics,Electronic Games,228.000000,Low
+B-25808,2023-10-08,Castillo,New Jersey,NE,Sunday,210,4,65,COD,Clothing,Hat,580.000000,Low
+B-25808,2023-10-08,Castillo,New Jersey,NE,Sunday,59,2,19,EFT,Clothing,Scarf,80.000000,Low
+B-25808,2023-10-08,Castillo,New Jersey,NE,Sunday,63,6,13,Credit Card,Clothing,Leggings,300.000000,Low
+B-26083,2023-03-24,Rodriguez,New Jersey,NE,Friday,143,2,69,EFT,Electronics,Accessories,148.000000,Low
+B-26083,2023-03-24,Rodriguez,New Jersey,NE,Friday,145,3,43,Debit Card,Clothing,T - shirt,306.000000,Low
+B-26083,2023-03-24,Rodriguez,New Jersey,NE,Friday,34,3,10,Credit Card,Clothing,Dress,72.000000,Low
+B-26083,2023-03-24,Rodriguez,New Jersey,NE,Friday,43,3,12,Credit Card,Clothing,Leggings,93.000000,Low
+B-26083,2023-03-24,Rodriguez,New Jersey,NE,Friday,45,1,28,Credit Card,Electronics,Accessories,17.000000,Low
+B-26084,2023-03-25,Hernandez,Virginia,NE,Saturday,209,4,68,Credit Card,Electronics,Electronic Games,564.000000,Low
+B-26038,2023-02-24,Brown,New Jersey,NE,Friday,130,3,23,Debit Card,Clothing,Shirt,321.000000,Low
+B-26038,2023-02-24,Brown,New Jersey,NE,Friday,30,1,24,Credit Card,Clothing,T - shirt,6.000000,Low
+B-26038,2023-02-24,Brown,New Jersey,NE,Friday,41,2,11,Debit Card,Clothing,T - shirt,60.000000,Low
+B-26038,2023-02-24,Brown,New Jersey,NE,Friday,52,2,19,Credit Card,Clothing,Scarf,66.000000,Low
+B-25868,2023-11-18,Holt,Massachusetts,NE,Saturday,1118,2,456,COD,Furniture,Tables,1324.000000,Avg
+B-25868,2023-11-18,Holt,Massachusetts,NE,Saturday,170,2,49,EFT,Electronics,Accessories,242.000000,Low
+B-25868,2023-11-18,Holt,Massachusetts,NE,Saturday,62,1,63,EFT,Electronics,Phones,-1.000000,Loss
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,19,3,6,EFT,Clothing,Skirt,39.000000,Low
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,262,2,24,Debit Card,Electronics,Printers,476.000000,Low
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,30,2,27,EFT,Clothing,Dress,6.000000,Low
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,319,5,1,Debit Card,Clothing,Dress,1590.000000,Avg
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,41,5,11,EFT,Clothing,Leggings,150.000000,Low
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,72,7,17,Debit Card,Clothing,Shirt,385.000000,Low
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,9,3,3,EFT,Clothing,Skirt,18.000000,Low
+B-25754,2023-08-18,Thomas,New Jersey,NE,Friday,93,4,40,COD,Clothing,Scarf,212.000000,Low
+B-25874,2023-11-24,Kelly,New York,NE,Friday,124,5,14,Credit Card,Clothing,T - shirt,550.000000,Low
+B-26062,2023-03-15,Jordan,Massachusetts,NE,Wednesday,13,1,15,Credit Card,Clothing,Scarf,-2.000000,Loss
+B-26062,2023-03-15,Jordan,Massachusetts,NE,Wednesday,44,3,28,Credit Card,Clothing,Scarf,48.000000,Low
+B-26062,2023-03-15,Jordan,Massachusetts,NE,Wednesday,50,2,34,Credit Card,Clothing,Scarf,32.000000,Low
+B-26088,2023-03-26,Lopez,Maryland,NE,Sunday,11,2,3,EFT,Clothing,Hat,16.000000,Low
+B-26043,2023-03-01,Turner,Maryland,NE,Wednesday,122,7,10,EFT,Clothing,Scarf,784.000000,Low
+B-26043,2023-03-01,Turner,Maryland,NE,Wednesday,185,4,34,EFT,Clothing,Scarf,604.000000,Low
+B-26043,2023-03-01,Turner,Maryland,NE,Wednesday,30,3,6,EFT,Clothing,Skirt,72.000000,Low
+B-26043,2023-03-01,Turner,Maryland,NE,Wednesday,62,5,7,EFT,Clothing,Hat,275.000000,Low
+B-26043,2023-03-01,Turner,Maryland,NE,Wednesday,79,6,12,Debit Card,Clothing,Hat,402.000000,Low
+B-25980,2023-01-27,Hill,New York,NE,Friday,22,3,4,Credit Card,Clothing,Shirt,54.000000,Low
+B-25601,2023-04-01,White,Pennsylvania,NE,Saturday,1275,7,18,EFT,Furniture,Bookcases,8799.000000,High
+B-25601,2023-04-01,White,Pennsylvania,NE,Saturday,66,5,16,EFT,Clothing,Scarf,250.000000,Low
+B-25601,2023-04-01,White,Pennsylvania,NE,Saturday,8,3,3,COD,Clothing,Hat,15.000000,Low
+B-25601,2023-04-01,White,Pennsylvania,NE,Saturday,80,4,34,EFT,Electronics,Electronic Games,184.000000,Low
+B-25683,2023-06-08,Smith,Virginia,NE,Thursday,148,5,19,EFT,Clothing,Scarf,645.000000,Low
+B-25683,2023-06-08,Smith,Virginia,NE,Thursday,155,3,33,EFT,Furniture,Furnishings,366.000000,Low
+B-25683,2023-06-08,Smith,Virginia,NE,Thursday,245,4,62,EFT,Electronics,Phones,732.000000,Low
+B-25683,2023-06-08,Smith,Virginia,NE,Thursday,433,3,136,Debit Card,Electronics,Printers,891.000000,Low
+B-25683,2023-06-08,Smith,Virginia,NE,Thursday,86,6,24,Credit Card,Clothing,Dress,372.000000,Low
+B-25809,2023-10-09,Lowe,Virginia,NE,Monday,154,3,33,Credit Card,Clothing,Hat,363.000000,Low
+B-25809,2023-10-09,Lowe,Virginia,NE,Monday,53,1,29,Debit Card,Clothing,Hat,24.000000,Low
+B-25730,2023-07-22,Reid,New York,NE,Saturday,1145,3,617,COD,Electronics,Phones,1584.000000,Avg
+B-25730,2023-07-22,Reid,New York,NE,Saturday,18,2,5,Debit Card,Clothing,Hat,26.000000,Low
+B-25730,2023-07-22,Reid,New York,NE,Saturday,187,4,39,COD,Electronics,Accessories,592.000000,Low
+B-25730,2023-07-22,Reid,New York,NE,Saturday,473,4,108,Credit Card,Furniture,Chairs,1460.000000,Avg
+B-25730,2023-07-22,Reid,New York,NE,Saturday,83,3,55,Credit Card,Furniture,Chairs,84.000000,Low
+B-25730,2023-07-22,Reid,New York,NE,Saturday,96,5,15,COD,Clothing,Scarf,405.000000,Low
+B-25916,2023-12-20,Mcdaniel,Pennsylvania,NE,Wednesday,80,9,12,EFT,Clothing,Skirt,612.000000,Low
+B-25795,2023-09-24,Nunez,Maryland,NE,Sunday,276,2,149,EFT,Electronics,Phones,254.000000,Low
+B-25901,2023-12-10,Byrd,Pennsylvania,NE,Sunday,158,3,40,EFT,Clothing,Hat,354.000000,Low
+B-25901,2023-12-10,Byrd,Pennsylvania,NE,Sunday,159,3,52,EFT,Furniture,Furnishings,321.000000,Low
+B-25901,2023-12-10,Byrd,Pennsylvania,NE,Sunday,61,2,17,EFT,Clothing,Hat,88.000000,Low
+B-25901,2023-12-10,Byrd,Pennsylvania,NE,Sunday,90,2,32,Credit Card,Clothing,T - shirt,116.000000,Low
+B-25919,2023-12-23,Guzman,New York,NE,Saturday,110,7,14,Debit Card,Clothing,Scarf,672.000000,Low
+B-25919,2023-12-23,Guzman,New York,NE,Saturday,1599,6,260,EFT,Electronics,Electronic Games,8034.000000,High
+B-25919,2023-12-23,Guzman,New York,NE,Saturday,28,1,24,Credit Card,Clothing,T - shirt,4.000000,Low
+B-25919,2023-12-23,Guzman,New York,NE,Saturday,636,2,420,Debit Card,Electronics,Printers,432.000000,Low
+B-25919,2023-12-23,Guzman,New York,NE,Saturday,977,7,174,Credit Card,Electronics,Phones,5621.000000,High
+B-25634,2023-04-26,Baker,Massachusetts,NE,Wednesday,389,3,157,EFT,Furniture,Chairs,696.000000,Low
+B-25922,2023-12-26,Chavez,Pennsylvania,NE,Tuesday,52,2,17,Credit Card,Clothing,Scarf,70.000000,Low
+B-25939,2023-01-05,Schwartz,Maryland,NE,Thursday,136,3,32,EFT,Electronics,Accessories,312.000000,Low
+B-25939,2023-01-05,Schwartz,Maryland,NE,Thursday,469,4,109,Debit Card,Electronics,Electronic Games,1440.000000,Avg
+B-25939,2023-01-05,Schwartz,Maryland,NE,Thursday,61,2,22,Credit Card,Electronics,Accessories,78.000000,Low
+B-25892,2023-12-04,Phillips,New York,NE,Monday,139,3,36,EFT,Clothing,Shirt,309.000000,Low
+B-25969,2023-01-21,Barrett,Pennsylvania,NE,Saturday,171,6,26,EFT,Clothing,T - shirt,870.000000,Low
+B-25969,2023-01-21,Barrett,Pennsylvania,NE,Saturday,2452,7,323,EFT,Furniture,Bookcases,14903.000000,High
+B-25969,2023-01-21,Barrett,Pennsylvania,NE,Saturday,720,2,339,EFT,Electronics,Printers,762.000000,Low
+B-25940,2023-01-06,Benson,Massachusetts,NE,Friday,13,2,5,Credit Card,Clothing,Hat,16.000000,Low
+B-25940,2023-01-06,Benson,Massachusetts,NE,Friday,46,4,12,Credit Card,Clothing,Leggings,136.000000,Low
+B-25940,2023-01-06,Benson,Massachusetts,NE,Friday,55,2,26,Credit Card,Clothing,Scarf,58.000000,Low
+B-26092,2023-03-27,Scott,Pennsylvania,NE,Monday,97,2,42,COD,Clothing,T - shirt,110.000000,Low
+B-25961,2023-01-18,Henderson,Pennsylvania,NE,Wednesday,26,3,8,EFT,Clothing,Skirt,54.000000,Low
+B-25961,2023-01-18,Henderson,Pennsylvania,NE,Wednesday,34,3,15,Credit Card,Clothing,Skirt,57.000000,Low
+B-25961,2023-01-18,Henderson,Pennsylvania,NE,Wednesday,34,5,9,Credit Card,Clothing,Leggings,125.000000,Low
+B-25961,2023-01-18,Henderson,Pennsylvania,NE,Wednesday,366,3,94,Credit Card,Furniture,Bookcases,816.000000,Low
+B-25961,2023-01-18,Henderson,Pennsylvania,NE,Wednesday,446,3,131,Credit Card,Electronics,Printers,945.000000,Low
+B-25961,2023-01-18,Henderson,Pennsylvania,NE,Wednesday,48,3,11,Credit Card,Clothing,Shirt,111.000000,Low
+B-26020,2023-02-16,Rodriguez,New Jersey,NE,Thursday,319,6,36,COD,Electronics,Accessories,1698.000000,Avg
+B-25889,2023-12-03,Williams,Pennsylvania,NE,Sunday,114,4,26,Debit Card,Clothing,T - shirt,352.000000,Low
+B-25889,2023-12-03,Williams,Pennsylvania,NE,Sunday,119,7,23,COD,Clothing,Shirt,672.000000,Low
+B-25889,2023-12-03,Williams,Pennsylvania,NE,Sunday,31,1,21,Credit Card,Clothing,Shirt,10.000000,Low
+B-25863,2023-11-15,Riley,Virginia,NE,Wednesday,189,7,15,Credit Card,Clothing,Scarf,1218.000000,Avg
+B-25986,2023-01-31,Hill,New York,NE,Tuesday,487,3,170,Debit Card,Electronics,Printers,951.000000,Low
+B-25986,2023-01-31,Hill,New York,NE,Tuesday,71,5,13,Debit Card,Clothing,Leggings,290.000000,Low
+B-25986,2023-01-31,Hill,New York,NE,Tuesday,749,7,151,Credit Card,Furniture,Furnishings,4186.000000,High
+B-25986,2023-01-31,Hill,New York,NE,Tuesday,918,9,100,Credit Card,Electronics,Electronic Games,7362.000000,High
+B-25673,2023-05-28,Tucker,Pennsylvania,NE,Sunday,143,5,53,EFT,Clothing,Dress,450.000000,Low
+B-25673,2023-05-28,Tucker,Pennsylvania,NE,Sunday,149,1,150,Credit Card,Clothing,Dress,-1.000000,Loss
+B-25673,2023-05-28,Tucker,Pennsylvania,NE,Sunday,37,3,14,Debit Card,Clothing,T - shirt,69.000000,Low
+B-25673,2023-05-28,Tucker,Pennsylvania,NE,Sunday,44,5,12,EFT,Clothing,Dress,160.000000,Low
+B-25673,2023-05-28,Tucker,Pennsylvania,NE,Sunday,45,4,12,Credit Card,Clothing,Shirt,132.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,147,3,25,EFT,Clothing,Scarf,366.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,171,2,85,Credit Card,Electronics,Electronic Games,172.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,191,4,25,EFT,Clothing,Shirt,664.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,33,3,7,EFT,Clothing,Leggings,78.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,499,4,117,Credit Card,Clothing,Dress,1528.000000,Avg
+B-25898,2023-12-07,Williams,New York,NE,Thursday,53,3,16,Credit Card,Clothing,T - shirt,111.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,857,2,566,Credit Card,Furniture,Tables,582.000000,Low
+B-25898,2023-12-07,Williams,New York,NE,Thursday,915,3,338,Debit Card,Furniture,Tables,1731.000000,Avg
+B-25928,2023-01-01,Stanley,New Jersey,NE,Sunday,122,3,36,EFT,Electronics,Accessories,258.000000,Low
+B-25928,2023-01-01,Stanley,New Jersey,NE,Sunday,25,1,15,EFT,Furniture,Furnishings,10.000000,Low
+B-25619,2023-04-18,Scott,Pennsylvania,NE,Tuesday,353,8,33,Credit Card,Clothing,Dress,2560.000000,High
+B-25820,2023-10-16,Warren,New York,NE,Monday,119,1,118,Credit Card,Furniture,Chairs,1.000000,Low
+B-25628,2023-04-24,Brown,New Jersey,NE,Monday,219,4,57,COD,Clothing,Dress,648.000000,Low
+B-25628,2023-04-24,Brown,New Jersey,NE,Monday,35,2,22,Debit Card,Furniture,Furnishings,26.000000,Low
+B-25628,2023-04-24,Brown,New Jersey,NE,Monday,45,4,8,Credit Card,Clothing,Skirt,148.000000,Low
+B-25992,2023-02-03,Nguyen,New York,NE,Friday,141,3,33,EFT,Clothing,Shirt,324.000000,Low
+B-25895,2023-12-04,Holland,Pennsylvania,NE,Monday,388,2,148,Credit Card,Furniture,Bookcases,480.000000,Low
+B-25658,2023-05-14,Sullivan,New York,NE,Sunday,27,2,9,EFT,Clothing,T - shirt,36.000000,Low
+B-26010,2023-02-11,Knight,New Jersey,NE,Saturday,176,5,38,Credit Card,Furniture,Furnishings,690.000000,Low
+B-26010,2023-02-11,Knight,New Jersey,NE,Saturday,18,3,5,Credit Card,Clothing,Hat,39.000000,Low
+B-26010,2023-02-11,Knight,New Jersey,NE,Saturday,29,2,13,Credit Card,Clothing,Scarf,32.000000,Low
+B-26010,2023-02-11,Knight,New Jersey,NE,Saturday,527,3,167,Credit Card,Electronics,Electronic Games,1080.000000,Avg
+B-26010,2023-02-11,Knight,New Jersey,NE,Saturday,55,3,17,Credit Card,Clothing,T - shirt,114.000000,Low
+B-26010,2023-02-11,Knight,New Jersey,NE,Saturday,85,2,36,EFT,Clothing,Shirt,98.000000,Low
+B-25646,2023-05-01,Butler,New Jersey,NE,Monday,299,2,154,Credit Card,Clothing,Dress,290.000000,Low
+B-26032,2023-02-22,Wright,New York,NE,Wednesday,47,5,6,Debit Card,Clothing,Dress,205.000000,Low
+B-25759,2023-08-23,Barnes,Maryland,NE,Wednesday,20,6,5,Debit Card,Clothing,Hat,90.000000,Low
+B-26004,2023-02-08,Greene,New York,NE,Wednesday,147,3,34,Credit Card,Clothing,Dress,339.000000,Low
+B-26004,2023-02-08,Greene,New York,NE,Wednesday,162,2,45,Credit Card,Electronics,Electronic Games,234.000000,Low
+B-25664,2023-05-20,Soto,New Jersey,NE,Saturday,258,2,143,Debit Card,Electronics,Phones,230.000000,Low
+B-25664,2023-05-20,Soto,New Jersey,NE,Saturday,444,4,161,EFT,Electronics,Phones,1132.000000,Avg
+B-25664,2023-05-20,Soto,New Jersey,NE,Saturday,785,2,367,Debit Card,Electronics,Phones,836.000000,Low
+B-25664,2023-05-20,Soto,New Jersey,NE,Saturday,83,1,131,EFT,Furniture,Bookcases,-48.000000,Loss
+B-25871,2023-11-21,Daniels,Pennsylvania,NE,Tuesday,118,4,23,COD,Clothing,Hat,380.000000,Low
+B-25615,2023-04-15,Lopez,Maryland,NE,Saturday,68,5,10,Debit Card,Clothing,Hat,290.000000,Low
+B-26011,2023-02-12,White,Pennsylvania,NE,Sunday,93,2,25,COD,Clothing,Scarf,136.000000,Low
+B-25886,2023-11-28,Dixon,New York,NE,Tuesday,107,3,23,Credit Card,Clothing,Shirt,252.000000,Low
+B-25886,2023-11-28,Dixon,New York,NE,Tuesday,502,4,105,Credit Card,Electronics,Phones,1588.000000,Avg
+B-25886,2023-11-28,Dixon,New York,NE,Tuesday,63,4,16,Credit Card,Clothing,T - shirt,188.000000,Low
+B-25886,2023-11-28,Dixon,New York,NE,Tuesday,89,2,36,EFT,Clothing,Scarf,106.000000,Low
+B-25966,2023-01-21,Barnes,New York,NE,Saturday,510,6,46,EFT,Electronics,Electronic Games,2784.000000,High
+B-25622,2023-04-22,Wright,New York,NE,Saturday,534,3,178,Debit Card,Clothing,Dress,1068.000000,Avg
+B-26026,2023-02-19,Hall,Massachusetts,NE,Sunday,25,3,8,COD,Clothing,Shirt,51.000000,Low
+B-26026,2023-02-19,Hall,Massachusetts,NE,Sunday,255,9,20,Credit Card,Clothing,Hat,2115.000000,High
+B-26044,2023-03-02,Baker,Massachusetts,NE,Thursday,28,3,13,Credit Card,Clothing,Skirt,45.000000,Low
+B-25766,2023-08-30,Campbell,New York,NE,Wednesday,220,2,120,Debit Card,Clothing,Dress,200.000000,Low
+B-25773,2023-09-06,Smith,Virginia,NE,Wednesday,209,2,115,EFT,Electronics,Electronic Games,188.000000,Low
+B-25773,2023-09-06,Smith,Virginia,NE,Wednesday,224,3,122,Credit Card,Furniture,Chairs,306.000000,Low
+B-25773,2023-09-06,Smith,Virginia,NE,Wednesday,248,3,106,COD,Furniture,Chairs,426.000000,Low
+B-25773,2023-09-06,Smith,Virginia,NE,Wednesday,437,2,226,EFT,Clothing,Dress,422.000000,Low
+B-25773,2023-09-06,Smith,Virginia,NE,Wednesday,85,4,24,Credit Card,Clothing,Dress,244.000000,Low
+B-25682,2023-06-07,Peterson,New Jersey,NE,Wednesday,545,11,56,Credit Card,Electronics,Phones,5379.000000,High
+B-25604,2023-04-03,Harris,New York,NE,Monday,157,9,17,EFT,Clothing,Dress,1260.000000,Avg
+B-25604,2023-04-03,Harris,New York,NE,Monday,65,2,24,EFT,Clothing,T - shirt,82.000000,Low
+B-25835,2023-10-29,Garza,Pennsylvania,NE,Sunday,155,3,43,EFT,Clothing,Scarf,336.000000,Low
+B-25835,2023-10-29,Garza,Pennsylvania,NE,Sunday,27,2,13,EFT,Clothing,Leggings,28.000000,Low
+B-25835,2023-10-29,Garza,Pennsylvania,NE,Sunday,52,5,8,Credit Card,Clothing,Leggings,220.000000,Low
+B-25781,2023-09-14,Little,Pennsylvania,NE,Thursday,25,4,7,Credit Card,Clothing,Shirt,72.000000,Low
+B-25781,2023-09-14,Little,Pennsylvania,NE,Thursday,30,2,28,Credit Card,Clothing,T - shirt,4.000000,Low
+B-25781,2023-09-14,Little,Pennsylvania,NE,Thursday,45,2,37,Debit Card,Clothing,Scarf,16.000000,Low
+B-25781,2023-09-14,Little,Pennsylvania,NE,Thursday,584,7,147,EFT,Electronics,Printers,3059.000000,High
+B-25781,2023-09-14,Little,Pennsylvania,NE,Thursday,60,8,14,Credit Card,Clothing,Hat,368.000000,Low
+B-25781,2023-09-14,Little,Pennsylvania,NE,Thursday,767,5,224,Credit Card,Clothing,Pants,2715.000000,High
+B-25676,2023-06-01,Hunt,New York,NE,Thursday,1263,5,264,EFT,Clothing,Pants,4995.000000,High
+B-25676,2023-06-01,Hunt,New York,NE,Thursday,32,3,9,Credit Card,Clothing,Shirt,69.000000,Low
+B-25676,2023-06-01,Hunt,New York,NE,Thursday,342,4,111,Credit Card,Electronics,Electronic Games,924.000000,Low
+B-25676,2023-06-01,Hunt,New York,NE,Thursday,674,2,431,Credit Card,Furniture,Tables,486.000000,Low
+B-25676,2023-06-01,Hunt,New York,NE,Thursday,79,4,11,Credit Card,Clothing,Shirt,272.000000,Low
+B-26089,2023-03-26,Hall,Massachusetts,NE,Sunday,139,3,42,Credit Card,Clothing,Shirt,291.000000,Low
+B-26089,2023-03-26,Hall,Massachusetts,NE,Sunday,27,1,23,Credit Card,Clothing,Hat,4.000000,Low
+B-26089,2023-03-26,Hall,Massachusetts,NE,Sunday,59,6,6,Debit Card,Clothing,Shirt,318.000000,Low
+B-25712,2023-07-07,Ramos,New York,NE,Friday,193,3,156,COD,Electronics,Phones,111.000000,Low
+B-25694,2023-06-18,Barnett,New York,NE,Sunday,167,7,18,EFT,Clothing,T - shirt,1043.000000,Avg
+B-25791,2023-09-24,Porter,Virginia,NE,Sunday,175,3,33,Credit Card,Clothing,Dress,426.000000,Low
+B-25791,2023-09-24,Porter,Virginia,NE,Sunday,253,2,158,EFT,Clothing,Dress,190.000000,Low
+B-25791,2023-09-24,Porter,Virginia,NE,Sunday,565,7,71,COD,Clothing,Dress,3458.000000,High
+B-25831,2023-10-27,Allen,Maryland,NE,Friday,693,6,73,Credit Card,Clothing,Dress,3720.000000,High
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,101,2,45,EFT,Clothing,Hat,112.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,15,2,5,Credit Card,Clothing,Hat,20.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,19,4,9,Credit Card,Clothing,Shirt,40.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,206,4,47,Debit Card,Clothing,Hat,636.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,213,3,119,Debit Card,Furniture,Bookcases,282.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,220,2,90,Credit Card,Electronics,Accessories,260.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,31,2,11,Credit Card,Clothing,Hat,40.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,33,2,12,Credit Card,Clothing,Hat,42.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,391,6,50,Debit Card,Electronics,Phones,2046.000000,High
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,424,2,132,Credit Card,Clothing,Dress,584.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,47,7,4,EFT,Clothing,Hat,301.000000,Low
+B-26056,2023-03-10,Butler,New Jersey,NE,Friday,70,3,15,EFT,Clothing,Scarf,165.000000,Low
+B-25706,2023-07-01,Frazier,Massachusetts,NE,Saturday,31,4,11,Credit Card,Clothing,Scarf,80.000000,Low
+B-25772,2023-09-02,Sanders,New Jersey,NE,Saturday,1183,4,269,EFT,Electronics,Printers,3656.000000,High
+B-25633,2023-04-26,Turner,Maryland,NE,Wednesday,249,4,95,EFT,Electronics,Phones,616.000000,Low
+B-25633,2023-04-26,Turner,Maryland,NE,Wednesday,496,2,288,Credit Card,Clothing,Pants,416.000000,Low
+B-25633,2023-04-26,Turner,Maryland,NE,Wednesday,711,4,180,Debit Card,Clothing,Dress,2124.000000,High
+B-25880,2023-11-24,Woods,New York,NE,Friday,108,2,36,COD,Clothing,Scarf,144.000000,Low
+B-25640,2023-04-27,Watson,New York,NE,Thursday,122,4,42,EFT,Clothing,Dress,320.000000,Low
+B-25640,2023-04-27,Watson,New York,NE,Thursday,1499,13,97,COD,Clothing,Dress,18226.000000,High
+B-25640,2023-04-27,Watson,New York,NE,Thursday,68,2,65,Debit Card,Clothing,Pants,6.000000,Low
+B-25629,2023-04-24,Murphy,Virginia,NE,Monday,1560,3,380,Credit Card,Clothing,Pants,3540.000000,High
+B-26025,2023-02-19,Lopez,Maryland,NE,Sunday,155,3,50,EFT,Clothing,Scarf,315.000000,Low
+B-26025,2023-02-19,Lopez,Maryland,NE,Sunday,32,2,16,Credit Card,Clothing,Scarf,32.000000,Low
+B-26025,2023-02-19,Lopez,Maryland,NE,Sunday,41,5,4,Debit Card,Clothing,Hat,185.000000,Low
+B-26029,2023-02-20,Scott,Pennsylvania,NE,Monday,21,1,11,Debit Card,Clothing,T - shirt,10.000000,Low
+B-26068,2023-03-16,Sullivan,New York,NE,Thursday,193,5,32,Credit Card,Electronics,Accessories,805.000000,Low
+B-25742,2023-08-03,Simpson,Massachusetts,NE,Thursday,11,2,10,EFT,Clothing,Skirt,2.000000,Low
+B-25845,2023-11-03,Beck,Virginia,NE,Friday,132,5,16,Credit Card,Clothing,Scarf,580.000000,Low
+B-25845,2023-11-03,Beck,Virginia,NE,Friday,274,4,70,Credit Card,Electronics,Phones,816.000000,Low
+B-25845,2023-11-03,Beck,Virginia,NE,Friday,757,2,193,COD,Electronics,Printers,1128.000000,Avg
+B-25845,2023-11-03,Beck,Virginia,NE,Friday,82,4,29,Credit Card,Clothing,Shirt,212.000000,Low
+B-25972,2023-01-23,Hoffman,New York,NE,Monday,115,2,34,Credit Card,Electronics,Accessories,162.000000,Low
+B-26077,2023-03-22,Harris,New York,NE,Wednesday,62,7,7,EFT,Clothing,Hat,385.000000,Low
+B-25974,2023-01-25,Carpenter,New York,NE,Wednesday,662,2,211,Credit Card,Furniture,Bookcases,902.000000,Low
+B-25760,2023-08-24,Brown,Massachusetts,NE,Thursday,322,5,103,EFT,Electronics,Printers,1095.000000,Avg
+B-25748,2023-08-12,Lawson,New York,NE,Saturday,141,4,33,EFT,Clothing,Shirt,432.000000,Low
+B-25748,2023-08-12,Lawson,New York,NE,Saturday,224,3,55,EFT,Electronics,Phones,507.000000,Low
+B-25748,2023-08-12,Lawson,New York,NE,Saturday,47,2,34,Credit Card,Electronics,Electronic Games,26.000000,Low
+B-25748,2023-08-12,Lawson,New York,NE,Saturday,8,2,5,Credit Card,Clothing,Leggings,6.000000,Low
+B-26074,2023-03-21,White,Pennsylvania,NE,Tuesday,57,4,9,Credit Card,Clothing,Leggings,192.000000,Low
+B-25862,2023-11-15,Stevens,New Jersey,NE,Wednesday,121,4,20,EFT,Clothing,Scarf,404.000000,Low
+B-25862,2023-11-15,Stevens,New Jersey,NE,Wednesday,2061,5,272,EFT,Furniture,Bookcases,8945.000000,High
+B-25862,2023-11-15,Stevens,New Jersey,NE,Wednesday,80,3,26,EFT,Clothing,Scarf,162.000000,Low
