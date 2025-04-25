@@ -47,6 +47,14 @@ To streamline the sales reporting workflow and build a reliable, automated pipel
 
 ---
 
+## 🔧 Workflow Screenshot
+
+Below is the full Alteryx workflow used to automate and analyze DC Industries' sales data.
+
+![Workflow Screenshot](images/workflow_screenshot.png)
+
+---
+
 ## 🔍 Use Case
 
 This solution can be reused across similar industries to automate multi-source sales data processing, generate business-critical summaries, and drive data-backed decisions.
@@ -58,13 +66,5 @@ This solution can be reused across similar industries to automate multi-source s
 **Ritik Kumar**  
 📧 ritik.kumar@rutgers.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/ritik-kumar-b9999b221)
-
----
-
-## 🔧 Workflow Screenshot
-
-Below is the full Alteryx workflow used to automate and analyze DC Industries' sales data.
-
-![Workflow Screenshot](images/workflow_screenshot.png)
 
 ---
